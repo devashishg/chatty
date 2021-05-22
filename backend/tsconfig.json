@@ -1,0 +1,27 @@
+{
+	"compilerOptions": {
+		"typeRoots": [
+			"node_modules/@types"
+		],
+		"types": [
+			"node"
+		],
+		"module": "commonjs",
+		"rootDir": "src",
+		"outDir": "dist",
+		"moduleResolution": "node",
+		"lib": [
+			"es2016"
+		],
+		"resolveJsonModule": true,
+		"target": "es5"
+	},
+	"include": [
+		"./src/*",
+		"./src/utils/*",
+		"./src/entity/*/*"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
