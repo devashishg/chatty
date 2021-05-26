@@ -1,1 +1,15 @@
-<p>home works!</p>
+<div class="row justify-content-center px-5 mx-5">
+  <div class="d-flex space-around w-100"> <h3 class="f3 strong">Group List</h3> <div class="c-pointer"(click)="logout()">logout</div></div>
+  <div class="list-group w-100 mt-3">
+    <ng-container *ngFor="let group of GroupList">
+      <button type="button" class="list-group-item list-group-item-action align-space-betn mx-3" (click)="groupSelection(group._id)">
+        <div>{{group.name}}</div>
+        <div>ID: {{group._id}}</div>
+      </button>
+    </ng-container>
+  </div>
+  <div class="d-flex space-around w-100">
+    <div class="c-pointer" (click)="prev()"> < prev</div>
+    <div class="c-pointer" (click)="next()">next > </div>
+  </div>
+</div>

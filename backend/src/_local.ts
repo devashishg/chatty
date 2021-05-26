@@ -9,18 +9,20 @@ import { router as userController } from './entity/user/user.controller';
 import { ApolloServer, PubSub } from 'apollo-server-express';
 import { typeDefs } from './gql/typedef';
 import { resolvers } from './gql/resolvers';
+import { TokenService } from './utils/jwt';
 const debug = require('debug')('express:server');
 
 
 export const message_alert = '0';
 
-const port = 4000;
+const port = process.env.NODE_ENV === 'production' ? process.env.PORT || 80 : 3000;;
 
 dotenv.config();
 
 export const app = express();
 
 app.set('views', path.join(__dirname, 'views'));
+
 app.set('view engine', 'ejs');
 
 app.use('/user', userController);
@@ -34,7 +36,13 @@ const apolloServer = new ApolloServer({
   subscriptions: {
     path: '/subscriptions',
     onConnect: (connectionParams, webSocket, context) => {
-      console.log('Client connected');
+      const test = TokenService.AuthorizeToken(connectionParams['authToken']);
+      if(test) {
+        console.log('Client connected');
+      } else {
+        console.log('Client connection closing!');
+        webSocket.close(401,'Invalid user');
+      }
     },
     onDisconnect: (webSocket, context) => {
       console.log('Client disconnected');
@@ -42,15 +50,16 @@ const apolloServer = new ApolloServer({
   },
 });
 
+
 const httpServer = http.createServer(app);
 
 apolloServer.applyMiddleware({ app });
 
+app.use('/',express.static(path.join(__dirname,'../', 'public','chatty'))); 9
+
 apolloServer.installSubscriptionHandlers(httpServer);
 
-
 httpServer.listen(port).on('listening', onListening).on('error', onError);
-
 
 
 function onError(error) {

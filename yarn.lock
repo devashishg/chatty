@@ -233,8 +233,8 @@
 
 "@apollo/client@^3.3.19":
   version "3.3.19"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@apollo/client/-/client-3.3.19.tgz#f1172dc9b9d7eae04c8940b047fd3b452ef92d2c"
-  integrity sha1-8RctybnX6uBMiUCwR/07RS75LSw=
+  resolved "https://registry.yarnpkg.com/@apollo/client/-/client-3.3.19.tgz#f1172dc9b9d7eae04c8940b047fd3b452ef92d2c"
+  integrity sha512-vzljWLPP0GwocfBhUopzDCUwsiaNTtii1eu8qDybAXqwj4/ZhnIM46c6dNQmnVcJpAIFRIsNCOxM4OlMDySJug==
   dependencies:
     "@graphql-typed-document-node/core" "^3.0.0"
     "@types/zen-observable" "^0.8.0"
@@ -1081,8 +1081,8 @@
 
 "@graphql-modules/epoxy@0.1.6":
   version "0.1.6"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@graphql-modules/epoxy/-/epoxy-0.1.6.tgz#f0555d72f5477f5a65bf880397137f422fb5bda5"
-  integrity sha1-8FVdcvVHf1plv4gDlxN/Qi+1vaU=
+  resolved "https://registry.yarnpkg.com/@graphql-modules/epoxy/-/epoxy-0.1.6.tgz#f0555d72f5477f5a65bf880397137f422fb5bda5"
+  integrity sha512-DYq1RfTXEEaTYS2cKCTPNCdr6uCj3JgrERQjUMpn0bSBM28V2ncnx5ycDL+w2p/gnYiFD5LfHSJNnQ5u8/79Zg==
   dependencies:
     "@graphql-modules/logger" "0.1.6"
     "@types/deepmerge" "2.1.0"
@@ -1091,16 +1091,16 @@
 
 "@graphql-modules/logger@0.1.6":
   version "0.1.6"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@graphql-modules/logger/-/logger-0.1.6.tgz#89da70baf9e5802f5dc970a501f500bdbd8efedf"
-  integrity sha1-idpwuvnlgC9dyXClAfUAvb2O/t8=
+  resolved "https://registry.yarnpkg.com/@graphql-modules/logger/-/logger-0.1.6.tgz#89da70baf9e5802f5dc970a501f500bdbd8efedf"
+  integrity sha512-gh2etdA4kHHXKiHQMhqub9eVBhr8rfi7Pe6/TLx/9Dmm7Ikqy0FvyDvg1zSstP5dRgGj5xm7z1EP8wxSxWHg2w==
   dependencies:
     moment "2.22.2"
     winston "3.0.0"
 
 "@graphql-typed-document-node/core@^3.0.0":
   version "3.1.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@graphql-typed-document-node/core/-/core-3.1.0.tgz#0eee6373e11418bfe0b5638f654df7a4ca6a3950"
-  integrity sha1-Du5jc+EUGL/gtWOPZU33pMpqOVA=
+  resolved "https://registry.yarnpkg.com/@graphql-typed-document-node/core/-/core-3.1.0.tgz#0eee6373e11418bfe0b5638f654df7a4ca6a3950"
+  integrity sha512-wYn6r8zVZyQJ6rQaALBEln5B1pzxb9shV5Ef97kTvn6yVGrqyXVnDqnU24MXnFubR+rZjBY9NWuxX3FB2sTsjg==
 
 "@istanbuljs/schema@^0.1.2":
   version "0.1.3"
@@ -1247,13 +1247,13 @@
 
 "@types/babel-types@*":
   version "7.0.9"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@types/babel-types/-/babel-types-7.0.9.tgz#01d7b86949f455402a94c788883fe4ba574cad41"
-  integrity sha1-Ade4aUn0VUAqlMeIiD/kuldMrUE=
+  resolved "https://registry.yarnpkg.com/@types/babel-types/-/babel-types-7.0.9.tgz#01d7b86949f455402a94c788883fe4ba574cad41"
+  integrity sha512-qZLoYeXSTgQuK1h7QQS16hqLGdmqtRmN8w/rl3Au/l5x/zkHx+a4VHrHyBsi1I1vtK2oBHxSzKIu0R5p6spdOA==
 
 "@types/babylon@6.16.3":
   version "6.16.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@types/babylon/-/babylon-6.16.3.tgz#c2937813a89fcb5e79a00062fc4a8b143e7237bb"
-  integrity sha1-wpN4E6ify155oABi/EqLFD5yN7s=
+  resolved "https://registry.yarnpkg.com/@types/babylon/-/babylon-6.16.3.tgz#c2937813a89fcb5e79a00062fc4a8b143e7237bb"
+  integrity sha512-lyJ8sW1PbY3uwuvpOBZ9zMYKshMnQpXmeDHh8dj9j2nJm/xrW0FgB5gLSYOArj5X0IfaXnmhFoJnhS4KbqIMug==
   dependencies:
     "@types/babel-types" "*"
 
@@ -1301,8 +1301,8 @@
 
 "@types/deepmerge@2.1.0":
   version "2.1.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@types/deepmerge/-/deepmerge-2.1.0.tgz#22f175e5cb55874fe818caa6fd50a1d98fc3d748"
-  integrity sha1-IvF15ctVh0/oGMqm/VCh2Y/D10g=
+  resolved "https://registry.yarnpkg.com/@types/deepmerge/-/deepmerge-2.1.0.tgz#22f175e5cb55874fe818caa6fd50a1d98fc3d748"
+  integrity sha512-/0Ct/q5g+SgaACZ+A0ylY3071nEBN7QDnTWiCtaB3fx24UpoAQXf25yNVloOYVUis7jytM1F1WC78+EOwXkQJQ==
 
 "@types/express-serve-static-core@4.17.19", "@types/express-serve-static-core@^4.17.18":
   version "4.17.19"
@@ -1340,8 +1340,8 @@
 
 "@types/handlebars@4.0.39":
   version "4.0.39"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@types/handlebars/-/handlebars-4.0.39.tgz#961fb54db68030890942e6aeffe9f93a957807bd"
-  integrity sha1-lh+1TbaAMIkJQuau/+n5OpV4B70=
+  resolved "https://registry.yarnpkg.com/@types/handlebars/-/handlebars-4.0.39.tgz#961fb54db68030890942e6aeffe9f93a957807bd"
+  integrity sha512-vjaS7Q0dVqFp85QhyPSZqDKnTTCemcSHNHFvDdalO1s0Ifz5KuE64jQD5xoUkfdWwF4WpqdJEl7LsWH8rzhKJA==
 
 "@types/http-assert@*":
   version "1.5.1"
@@ -1355,8 +1355,8 @@
 
 "@types/is-glob@4.0.0":
   version "4.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@types/is-glob/-/is-glob-4.0.0.tgz#fb8a2bff539025d4dcd6d5efe7689e03341b876d"
-  integrity sha1-+4or/1OQJdTc1tXv52ieAzQbh20=
+  resolved "https://registry.yarnpkg.com/@types/is-glob/-/is-glob-4.0.0.tgz#fb8a2bff539025d4dcd6d5efe7689e03341b876d"
+  integrity sha512-zC/2EmD8scdsGIeE+Xg7kP7oi9VP90zgMQtm9Cr25av4V+a+k8slQyiT60qSw8KORYrOKlPXfHwoa1bQbRzskQ==
 
 "@types/jasmine@*":
   version "3.7.4"
@@ -1422,9 +1422,9 @@
   integrity sha512-1z8k4wzFnNjVK/tlxvrWuK5WMt6mydWWP7+zvH5eFep4oj+UkrfiJTRtjCeBXNpwaA/FYqqtb4/QS4ianFpIRA==
 
 "@types/mongodb@^3.5.27":
-  version "3.6.14"
-  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.6.14.tgz#5ffb28d2913a5e1b089956af1fe7d7d67f0702f9"
-  integrity sha512-S9WP5+rkofDjAquHNBteuPN11GDZ2vfLHvRsjLS842JgWS4aTPRj8D7QJlsBEwEXt5/JdV0x7A4800rw4cn1lg==
+  version "3.6.16"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.6.16.tgz#7a48aaeb777f57e4655515ce18acbc68600dfeb9"
+  integrity sha512-D3tM0iRUet3TiIMAdvovxAIRG9gYqFd4j7visGwmPNdQj8Fq/uFFfRxyGCgEwVXAs0NnJPMI/QGVTADxDwhmSQ==
   dependencies:
     "@types/bson" "*"
     "@types/node" "*"
@@ -1437,15 +1437,10 @@
     "@types/node" "*"
     form-data "^3.0.0"
 
-"@types/node@*":
-  version "15.3.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-15.3.1.tgz#23a06b87eedb524016616e886b116b8fdcb180af"
-  integrity sha512-weaeiP4UF4XgF++3rpQhpIJWsCTS4QJw5gvBhQu6cFIxTwyxWIe3xbnrY/o2lTCQ0lsdb8YIUDUvLR4Vuz5rbw==
-
-"@types/node@>=6":
+"@types/node@*", "@types/node@>=6":
   version "15.6.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@types/node/-/node-15.6.0.tgz#f0ddca5a61e52627c9dcb771a6039d44694597bc"
-  integrity sha1-8N3KWmHlJifJ3LdxpgOdRGlFl7w=
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-15.6.0.tgz#f0ddca5a61e52627c9dcb771a6039d44694597bc"
+  integrity sha512-gCYSfQpy+LYhOFTKAeE8BkyGqaxmlFxe+n4DKM6DR0wzw/HISUE/hAmkC/KT8Sw5PCJblqg062b3z9gucv3k0A==
 
 "@types/node@^10.1.0":
   version "10.17.60"
@@ -1459,8 +1454,8 @@
 
 "@types/prettier@1.13.2":
   version "1.13.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@types/prettier/-/prettier-1.13.2.tgz#ffe96278e712a8d4e467e367a338b05e22872646"
-  integrity sha1-/+lieOcSqNTkZ+NnoziwXiKHJkY=
+  resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-1.13.2.tgz#ffe96278e712a8d4e467e367a338b05e22872646"
+  integrity sha512-k6MCN8WuDiCj6O+UJsVMbrreZxkbrhQbO02oDj6yuRu8UAkp0MDdEcDKif8/gBKuJbT84kkO+VHQAqXkumEklg==
 
 "@types/q@^0.0.32":
   version "0.0.32"
@@ -1512,7 +1507,7 @@
 
 "@types/valid-url@1.0.2":
   version "1.0.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@types/valid-url/-/valid-url-1.0.2.tgz#60fa435ce24bfd5ba107b8d2a80796aeaf3a8f45"
+  resolved "https://registry.yarnpkg.com/@types/valid-url/-/valid-url-1.0.2.tgz#60fa435ce24bfd5ba107b8d2a80796aeaf3a8f45"
   integrity sha1-YPpDXOJL/VuhB7jSqAeWrq86j0U=
 
 "@types/webpack-sources@^0.1.5":
@@ -1533,8 +1528,8 @@
 
 "@types/zen-observable@^0.8.0":
   version "0.8.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@types/zen-observable/-/zen-observable-0.8.2.tgz#808c9fa7e4517274ed555fa158f2de4b4f468e71"
-  integrity sha1-gIyfp+RRcnTtVV+hWPLeS09GjnE=
+  resolved "https://registry.yarnpkg.com/@types/zen-observable/-/zen-observable-0.8.2.tgz#808c9fa7e4517274ed555fa158f2de4b4f468e71"
+  integrity sha512-HrCIVMLjE1MOozVoD86622S7aunluLb2PJdPfb3nYiEtohm8mIB/vyv0Fd37AdeMFrTUQXEunw78YloMA3Qilg==
 
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
@@ -1683,16 +1678,16 @@
 
 "@wry/context@^0.4.0":
   version "0.4.4"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@wry/context/-/context-0.4.4.tgz#e50f5fa1d6cfaabf2977d1fda5ae91717f8815f8"
-  integrity sha1-5Q9fodbPqr8pd9H9pa6RcX+IFfg=
+  resolved "https://registry.yarnpkg.com/@wry/context/-/context-0.4.4.tgz#e50f5fa1d6cfaabf2977d1fda5ae91717f8815f8"
+  integrity sha512-LrKVLove/zw6h2Md/KZyWxIkFM6AoyKp71OqpH9Hiip1csjPVoD3tPxlbQUNxEnHENks3UGgNpSBCAfq9KWuag==
   dependencies:
     "@types/node" ">=6"
     tslib "^1.9.3"
 
 "@wry/context@^0.6.0":
   version "0.6.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@wry/context/-/context-0.6.0.tgz#f903eceb89d238ef7e8168ed30f4511f92d83e06"
-  integrity sha1-+QPs64nSOO9+gWjtMPRRH5LYPgY=
+  resolved "https://registry.yarnpkg.com/@wry/context/-/context-0.6.0.tgz#f903eceb89d238ef7e8168ed30f4511f92d83e06"
+  integrity sha512-sAgendOXR8dM7stJw3FusRxFHF/ZinU0lffsA2YTyyIOfic86JX02qlPqPVqJNZJPAxFt+2EE8bvq6ZlS0Kf+Q==
   dependencies:
     tslib "^2.1.0"
 
@@ -1705,15 +1700,15 @@
 
 "@wry/equality@^0.4.0":
   version "0.4.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@wry/equality/-/equality-0.4.0.tgz#474491869a8d0590f4a33fd2a4850a77a0f63408"
-  integrity sha1-R0SRhpqNBZD0oz/SpIUKd6D2NAg=
+  resolved "https://registry.yarnpkg.com/@wry/equality/-/equality-0.4.0.tgz#474491869a8d0590f4a33fd2a4850a77a0f63408"
+  integrity sha512-DxN/uawWfhRbgYE55zVCPOoe+jvsQ4m7PT1Wlxjyb/LCCLuU1UsucV2BbCxFAX8bjcSueFBbB5Qfj1Zfe8e7Fw==
   dependencies:
     tslib "^2.1.0"
 
 "@wry/trie@^0.3.0":
   version "0.3.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/@wry/trie/-/trie-0.3.0.tgz#3245e74988c4e3033299e479a1bf004430752463"
-  integrity sha1-MkXnSYjE4wMymeR5ob8ARDB1JGM=
+  resolved "https://registry.yarnpkg.com/@wry/trie/-/trie-0.3.0.tgz#3245e74988c4e3033299e479a1bf004430752463"
+  integrity sha512-Yw1akIogPhAT6XPYsRHlZZIS0tIGmAl9EYXHi2scf7LPKKqdqmow/Hu4kEqP2cJR3EjaU/9L0ZlAjFf3hFxmug==
   dependencies:
     tslib "^2.1.0"
 
@@ -1917,15 +1912,15 @@ anymatch@~3.1.1:
 
 apollo-angular-link-http-common@~1.10.0:
   version "1.10.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/apollo-angular-link-http-common/-/apollo-angular-link-http-common-1.10.0.tgz#c8d8666f9f17dbc6e4d60474441548ac83054aac"
-  integrity sha1-yNhmb58X28bk1gR0RBVIrIMFSqw=
+  resolved "https://registry.yarnpkg.com/apollo-angular-link-http-common/-/apollo-angular-link-http-common-1.10.0.tgz#c8d8666f9f17dbc6e4d60474441548ac83054aac"
+  integrity sha512-Oue8b/naWZvG/oQ+3ZAqaBVreBIwqy16yOk5CpoE7+Gjhett9KGVu/OZcpH89/ifwXyWzHpKnCUnB1fxgbnR7Q==
   dependencies:
     tslib "^2.0.0"
 
 apollo-angular-link-http@^1.2.0:
   version "1.11.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/apollo-angular-link-http/-/apollo-angular-link-http-1.11.0.tgz#5465664aac1944881900e845f043cf627af0f812"
-  integrity sha1-VGVmSqwZRIgZAOhF8EPPYnrw+BI=
+  resolved "https://registry.yarnpkg.com/apollo-angular-link-http/-/apollo-angular-link-http-1.11.0.tgz#5465664aac1944881900e845f043cf627af0f812"
+  integrity sha512-/mFytwvHhmWOX3emi8ljpuas8HpwSVOfbKniOeDFSE44g9HsPKkq2bGTucUTUo0Un3cCBEVKei2jTIDVsZPqFA==
   dependencies:
     apollo-angular-link-http-common "~1.10.0"
     extract-files "6.0.0"
@@ -1933,8 +1928,8 @@ apollo-angular-link-http@^1.2.0:
 
 apollo-angular@^2.4.0:
   version "2.4.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/apollo-angular/-/apollo-angular-2.4.0.tgz#a72ae8f0ca58da8e005986381f9a4277b5762c4a"
-  integrity sha1-pyro8MpY2o4AWYY4H5pCd7V2LEo=
+  resolved "https://registry.yarnpkg.com/apollo-angular/-/apollo-angular-2.4.0.tgz#a72ae8f0ca58da8e005986381f9a4277b5762c4a"
+  integrity sha512-pgxd+3el59T/KAwkNzHTLxlwh+aHBQqtJqnAk91DBiBP6LILlTC1VwOkBhJ4KjYcdsDAgA0Usq4sezyAwxbnLw==
   dependencies:
     extract-files "^9.0.0"
     semver "^7.0.0"
@@ -1950,8 +1945,8 @@ apollo-cache-control@^0.13.0:
 
 apollo-cache-inmemory@^1.2.0:
   version "1.6.6"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/apollo-cache-inmemory/-/apollo-cache-inmemory-1.6.6.tgz#56d1f2a463a6b9db32e9fa990af16d2a008206fd"
-  integrity sha1-VtHypGOmudsy6fqZCvFtKgCCBv0=
+  resolved "https://registry.yarnpkg.com/apollo-cache-inmemory/-/apollo-cache-inmemory-1.6.6.tgz#56d1f2a463a6b9db32e9fa990af16d2a008206fd"
+  integrity sha512-L8pToTW/+Xru2FFAhkZ1OA9q4V4nuvfoPecBM34DecAugUZEBhI2Hmpgnzq2hTKZ60LAMrlqiASm0aqAY6F8/A==
   dependencies:
     apollo-cache "^1.3.5"
     apollo-utilities "^1.3.4"
@@ -1961,16 +1956,16 @@ apollo-cache-inmemory@^1.2.0:
 
 apollo-cache@1.3.5, apollo-cache@^1.3.5:
   version "1.3.5"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/apollo-cache/-/apollo-cache-1.3.5.tgz#9dbebfc8dbe8fe7f97ba568a224bca2c5d81f461"
-  integrity sha1-nb6/yNvo/n+XulaKIkvKLF2B9GE=
+  resolved "https://registry.yarnpkg.com/apollo-cache/-/apollo-cache-1.3.5.tgz#9dbebfc8dbe8fe7f97ba568a224bca2c5d81f461"
+  integrity sha512-1XoDy8kJnyWY/i/+gLTEbYLnoiVtS8y7ikBr/IfmML4Qb+CM7dEEbIUOjnY716WqmZ/UpXIxTfJsY7rMcqiCXA==
   dependencies:
     apollo-utilities "^1.3.4"
     tslib "^1.10.0"
 
 apollo-client@^2.4.0:
   version "2.6.10"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/apollo-client/-/apollo-client-2.6.10.tgz#86637047b51d940c8eaa771a4ce1b02df16bea6a"
-  integrity sha1-hmNwR7UdlAyOqncaTOGwLfFr6mo=
+  resolved "https://registry.yarnpkg.com/apollo-client/-/apollo-client-2.6.10.tgz#86637047b51d940c8eaa771a4ce1b02df16bea6a"
+  integrity sha512-jiPlMTN6/5CjZpJOkGeUV0mb4zxx33uXWdj/xQCfAMkuNAC3HN7CvYDyMHHEzmcQ5GV12LszWoQ/VlxET24CtA==
   dependencies:
     "@types/zen-observable" "^0.8.0"
     apollo-cache "1.3.5"
@@ -2332,8 +2327,8 @@ async@^1.5.0:
 
 async@^2.5.0, async@^2.6.0, async@^2.6.2:
   version "2.6.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
-  integrity sha1-1yYl4jRKNlbjo61Pp0n6gymdgv8=
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
+  integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
   dependencies:
     lodash "^4.17.14"
 
@@ -2397,8 +2392,8 @@ babel-plugin-dynamic-import-node@^2.3.3:
 
 babel-types@7.0.0-beta.3:
   version "7.0.0-beta.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/babel-types/-/babel-types-7.0.0-beta.3.tgz#cd927ca70e0ae8ab05f4aab83778cfb3e6eb20b4"
-  integrity sha1-zZJ8pw4K6KsF9Kq4N3jPs+brILQ=
+  resolved "https://registry.yarnpkg.com/babel-types/-/babel-types-7.0.0-beta.3.tgz#cd927ca70e0ae8ab05f4aab83778cfb3e6eb20b4"
+  integrity sha512-36k8J+byAe181OmCMawGhw+DtKO7AwexPVtsPXoMfAkjtZgoCX3bEuHWfdE5sYxRM8dojvtG/+O08M0Z/YDC6w==
   dependencies:
     esutils "^2.0.2"
     lodash "^4.2.0"
@@ -2406,8 +2401,8 @@ babel-types@7.0.0-beta.3:
 
 babylon@7.0.0-beta.47:
   version "7.0.0-beta.47"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/babylon/-/babylon-7.0.0-beta.47.tgz#6d1fa44f0abec41ab7c780481e62fd9aafbdea80"
-  integrity sha1-bR+kTwq+xBq3x4BIHmL9mq+96oA=
+  resolved "https://registry.yarnpkg.com/babylon/-/babylon-7.0.0-beta.47.tgz#6d1fa44f0abec41ab7c780481e62fd9aafbdea80"
+  integrity sha512-+rq2cr4GDhtToEzKFD6KZZMDBXhjFAr9JjPw9pAppZACeEWqNM294j+NdBzkSHYXwzzBmVjZ3nEVJlOhbR2gOQ==
 
 backo2@1.0.2, backo2@^1.0.2:
   version "1.0.2"
@@ -2681,8 +2676,8 @@ browserstack@^1.5.1:
 
 bser@^2.0.0:
   version "2.1.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/bser/-/bser-2.1.1.tgz#e6787da20ece9d07998533cfd9de6f5c38f4bc05"
-  integrity sha1-5nh9og7OnQeZhTPP2d5vXDj0vAU=
+  resolved "https://registry.yarnpkg.com/bser/-/bser-2.1.1.tgz#e6787da20ece9d07998533cfd9de6f5c38f4bc05"
+  integrity sha512-gQxTNE/GAfIIrmHLUE3oJyp5FO6HRBfhjnw4/wMmA63ZGDJnWBmgY/lyQBpnDUkGmAhbSe39tx2d/iTOAfglwQ==
   dependencies:
     node-int64 "^0.4.0"
 
@@ -2863,7 +2858,7 @@ callsites@^2.0.0:
 
 camel-case@^3.0.0:
   version "3.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/camel-case/-/camel-case-3.0.0.tgz#ca3c3688a4e9cf3a4cda777dc4dcbc713249cf73"
+  resolved "https://registry.yarnpkg.com/camel-case/-/camel-case-3.0.0.tgz#ca3c3688a4e9cf3a4cda777dc4dcbc713249cf73"
   integrity sha1-yjw2iKTpzzpM2nd9xNy8cTJJz3M=
   dependencies:
     no-case "^2.2.0"
@@ -2947,8 +2942,8 @@ chalk@^3.0.0:
 
 change-case@3.0.2:
   version "3.0.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/change-case/-/change-case-3.0.2.tgz#fd48746cce02f03f0a672577d1d3a8dc2eceb037"
-  integrity sha1-/Uh0bM4C8D8KZyV30dOo3C7OsDc=
+  resolved "https://registry.yarnpkg.com/change-case/-/change-case-3.0.2.tgz#fd48746cce02f03f0a672577d1d3a8dc2eceb037"
+  integrity sha512-Mww+SLF6MZ0U6kdg11algyKd5BARbyM4TbFBepwowYSR5ClfQGCGtxNXgykpN0uF/bstWeaGDT4JWaDh8zWAHA==
   dependencies:
     camel-case "^3.0.0"
     constant-case "^2.0.0"
@@ -3168,16 +3163,16 @@ color-name@^1.0.0, color-name@~1.1.4:
 
 color-string@^1.5.2, color-string@^1.5.4:
   version "1.5.5"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/color-string/-/color-string-1.5.5.tgz#65474a8f0e7439625f3d27a6a19d89fc45223014"
-  integrity sha1-ZUdKjw50OWJfPSemoZ2J/EUiMBQ=
+  resolved "https://registry.yarnpkg.com/color-string/-/color-string-1.5.5.tgz#65474a8f0e7439625f3d27a6a19d89fc45223014"
+  integrity sha512-jgIoum0OfQfq9Whcfc2z/VhCNcmQjWbey6qBX0vqt7YICflUmBCh9E9CiQD5GSJ+Uehixm3NUwHVhqUAWRivZg==
   dependencies:
     color-name "^1.0.0"
     simple-swizzle "^0.2.2"
 
 color@3.0.x:
   version "3.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/color/-/color-3.0.0.tgz#d920b4328d534a3ac8295d68f7bd4ba6c427be9a"
-  integrity sha1-2SC0Mo1TSjrIKV1o971LpsQnvpo=
+  resolved "https://registry.yarnpkg.com/color/-/color-3.0.0.tgz#d920b4328d534a3ac8295d68f7bd4ba6c427be9a"
+  integrity sha512-jCpd5+s0s0t7p3pHQKpnJ0TpQKKdleP71LWcA0aqiljpiuAkOSUFN/dyH8ZwF0hRmFlrIuRhufds1QyEP9EB+w==
   dependencies:
     color-convert "^1.9.1"
     color-string "^1.5.2"
@@ -3197,18 +3192,18 @@ colorette@^1.2.2:
 
 colornames@^1.1.1:
   version "1.1.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/colornames/-/colornames-1.1.1.tgz#f8889030685c7c4ff9e2a559f5077eb76a816f96"
+  resolved "https://registry.yarnpkg.com/colornames/-/colornames-1.1.1.tgz#f8889030685c7c4ff9e2a559f5077eb76a816f96"
   integrity sha1-+IiQMGhcfE/54qVZ9Qd+t2qBb5Y=
 
 colors@1.4.0, colors@^1.2.1, colors@^1.4.0:
   version "1.4.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/colors/-/colors-1.4.0.tgz#c50491479d4c1bdaed2c9ced32cf7c7dc2360f78"
-  integrity sha1-xQSRR51MG9rtLJztMs98fcI2D3g=
+  resolved "https://registry.yarnpkg.com/colors/-/colors-1.4.0.tgz#c50491479d4c1bdaed2c9ced32cf7c7dc2360f78"
+  integrity sha512-a+UqTh4kgZg/SlGvfbzDHpgRu7AAQOmmqRHJnxhRZICKFUT91brVhNNt58CMWU9PsBbv3PDCZUHbVxuDiH2mtA==
 
 colorspace@1.1.x:
   version "1.1.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/colorspace/-/colorspace-1.1.2.tgz#e0128950d082b86a2168580796a0aa5d6c68d8c5"
-  integrity sha1-4BKJUNCCuGohaFgHlqCqXWxo2MU=
+  resolved "https://registry.yarnpkg.com/colorspace/-/colorspace-1.1.2.tgz#e0128950d082b86a2168580796a0aa5d6c68d8c5"
+  integrity sha512-vt+OoIP2d76xLhjwbBaucYlNSpPsrJWPlBTtwCpQKIu6/CSMutyzX93O/Do0qzpH3YoHEes8YEFXyZ797rEhzQ==
   dependencies:
     color "3.0.x"
     text-hex "1.0.x"
@@ -3222,8 +3217,8 @@ combined-stream@^1.0.6, combined-stream@^1.0.8, combined-stream@~1.0.6:
 
 commander@2.18.0:
   version "2.18.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/commander/-/commander-2.18.0.tgz#2bf063ddee7c7891176981a2cc798e5754bc6970"
-  integrity sha1-K/Bj3e58eJEXaYGizHmOV1S8aXA=
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.18.0.tgz#2bf063ddee7c7891176981a2cc798e5754bc6970"
+  integrity sha512-6CYPa+JP2ftfRU2qkDK+UTVeQYosOg/2GbcjIcKPHfinyOLPVGXu/ovN86RP49Re5ndJK1N0kuiidFFuepc4ZQ==
 
 commander@^2.11.0, commander@^2.12.1, commander@^2.20.0, commander@^2.20.3:
   version "2.20.3"
@@ -3232,8 +3227,8 @@ commander@^2.11.0, commander@^2.12.1, commander@^2.20.0, commander@^2.20.3:
 
 common-tags@1.8.0:
   version "1.8.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/common-tags/-/common-tags-1.8.0.tgz#8e3153e542d4a39e9b10554434afaaf98956a937"
-  integrity sha1-jjFT5ULUo56bEFVENK+q+YlWqTc=
+  resolved "https://registry.yarnpkg.com/common-tags/-/common-tags-1.8.0.tgz#8e3153e542d4a39e9b10554434afaaf98956a937"
+  integrity sha512-6P6g0uetGpW/sdyUy/iQQCbFF0kWVMSIVSyYz7Zgjcgh8mgw8PQzDNZeyZ5DQ2gM7LBoZPHmnjz8rUthkBG5tw==
 
 commondir@^1.0.1:
   version "1.0.1"
@@ -3339,7 +3334,7 @@ console-browserify@^1.1.0:
 
 constant-case@^2.0.0:
   version "2.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/constant-case/-/constant-case-2.0.0.tgz#4175764d389d3fa9c8ecd29186ed6005243b6a46"
+  resolved "https://registry.yarnpkg.com/constant-case/-/constant-case-2.0.0.tgz#4175764d389d3fa9c8ecd29186ed6005243b6a46"
   integrity sha1-QXV2TTidP6nI7NKRhu1gBSQ7akY=
   dependencies:
     snake-case "^2.1.0"
@@ -3866,8 +3861,8 @@ deep-equal@^1.0.1:
 
 deepmerge@2.1.1:
   version "2.1.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/deepmerge/-/deepmerge-2.1.1.tgz#e862b4e45ea0555072bf51e7fd0d9845170ae768"
-  integrity sha1-6GK05F6gVVByv1Hn/Q2YRRcK52g=
+  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-2.1.1.tgz#e862b4e45ea0555072bf51e7fd0d9845170ae768"
+  integrity sha512-urQxA1smbLZ2cBbXbaYObM1dJ82aJ2H57A1C/Kklfh/ZN1bgH4G/n5KWhdNfOK11W98gqZfyYj7W4frJJRwA2w==
 
 default-gateway@^4.2.0:
   version "4.2.0"
@@ -3956,8 +3951,8 @@ depd@~1.1.2:
 
 dependency-graph@^0.7.2, dependency-graph@~0.7.2:
   version "0.7.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/dependency-graph/-/dependency-graph-0.7.2.tgz#91db9de6eb72699209d88aea4c1fd5221cac1c49"
-  integrity sha1-kdud5utyaZIJ2IrqTB/VIhysHEk=
+  resolved "https://registry.yarnpkg.com/dependency-graph/-/dependency-graph-0.7.2.tgz#91db9de6eb72699209d88aea4c1fd5221cac1c49"
+  integrity sha512-KqtH4/EZdtdfWX0p6MGP9jljvxSY6msy/pRUD4jgNwVpv3v1QmNLlsB3LDSSUg79BRVSn7jI1QPRtArGABovAQ==
 
 deprecated-decorator@^0.1.6:
   version "0.1.6"
@@ -3997,8 +3992,8 @@ di@^0.0.1:
 
 diagnostics@^1.0.1, diagnostics@^1.1.1:
   version "1.1.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/diagnostics/-/diagnostics-1.1.1.tgz#cab6ac33df70c9d9a727490ae43ac995a769b22a"
-  integrity sha1-yrasM99wydmnJ0kK5DrJladpsio=
+  resolved "https://registry.yarnpkg.com/diagnostics/-/diagnostics-1.1.1.tgz#cab6ac33df70c9d9a727490ae43ac995a769b22a"
+  integrity sha512-8wn1PmdunLJ9Tqbx+Fx/ZEuHfJf4NKSN2ZBj7SJC/OWRWha843+WsTjqMe1B5E3p28jqBlp+mJ2fPVxPyNgYKQ==
   dependencies:
     colorspace "1.1.x"
     enabled "1.0.x"
@@ -4095,7 +4090,7 @@ domutils@^1.7.0:
 
 dot-case@^2.1.0:
   version "2.1.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/dot-case/-/dot-case-2.1.1.tgz#34dcf37f50a8e93c2b3bca8bb7fb9155c7da3bee"
+  resolved "https://registry.yarnpkg.com/dot-case/-/dot-case-2.1.1.tgz#34dcf37f50a8e93c2b3bca8bb7fb9155c7da3bee"
   integrity sha1-NNzzf1Co6TwrO8qLt/uRVcfaO+4=
   dependencies:
     no-case "^2.2.0"
@@ -4157,9 +4152,9 @@ ejs@^3.1.6:
     jake "^10.6.1"
 
 electron-to-chromium@^1.3.723:
-  version "1.3.734"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.734.tgz#c8d318a4eb27509190cf3a08870dbcbf06c74dcb"
-  integrity sha512-iQF2mjPZ6zNNq45kbJ6MYZYCBNdv2JpGiJC/lVx4tGJWi9MNg73KkL9sWGN4X4I/CP2SBLWsT8nPADZZpAHIyw==
+  version "1.3.735"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.735.tgz#fa1a8660f2790662291cb2136f0e446a444cdfdc"
+  integrity sha512-cp7MWzC3NseUJV2FJFgaiesdrS+A8ZUjX5fLAxdRlcaPDkaPGFplX930S5vf84yqDp4LjuLdKouWuVOTwUfqHQ==
 
 elliptic@^6.5.3:
   version "6.5.4"
@@ -4196,7 +4191,7 @@ emojis-list@^3.0.0:
 
 enabled@1.0.x:
   version "1.0.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/enabled/-/enabled-1.0.2.tgz#965f6513d2c2d1c5f4652b64a2e3396467fc2f93"
+  resolved "https://registry.yarnpkg.com/enabled/-/enabled-1.0.2.tgz#965f6513d2c2d1c5f4652b64a2e3396467fc2f93"
   integrity sha1-ll9lE9LC0cX0ZStkouM5ZGf8L5M=
   dependencies:
     env-variable "0.0.x"
@@ -4290,8 +4285,8 @@ entities@^2.0.0:
 
 env-variable@0.0.x:
   version "0.0.6"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/env-variable/-/env-variable-0.0.6.tgz#74ab20b3786c545b62b4a4813ab8cf22726c9808"
-  integrity sha1-dKsgs3hsVFtitKSBOrjPInJsmAg=
+  resolved "https://registry.yarnpkg.com/env-variable/-/env-variable-0.0.6.tgz#74ab20b3786c545b62b4a4813ab8cf22726c9808"
+  integrity sha512-bHz59NlBbtS0NhftmR8+ExBEekE7br0e01jw+kk0NDro7TtZzBYZ5ScGPs3OmwnpyfHTHOtr1Y6uedCdrIldtg==
 
 err-code@^1.0.0:
   version "1.1.2"
@@ -4600,13 +4595,13 @@ extglob@^2.0.4:
 
 extract-files@6.0.0:
   version "6.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/extract-files/-/extract-files-6.0.0.tgz#a273fd666aac97fd32e788b62d72d978bf43bb71"
-  integrity sha1-onP9Zmqsl/0y54i2LXLZeL9Du3E=
+  resolved "https://registry.yarnpkg.com/extract-files/-/extract-files-6.0.0.tgz#a273fd666aac97fd32e788b62d72d978bf43bb71"
+  integrity sha512-v9UVTPkERZR1NjEOIPvmbzLFdh8YZFEGjRdSJraop6HJe9PQ8HU9iv6eRMuF06CXXXO/R5OBmnWMixZHuZ8CsA==
 
 extract-files@^9.0.0:
   version "9.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/extract-files/-/extract-files-9.0.0.tgz#8a7744f2437f81f5ed3250ed9f1550de902fe54a"
-  integrity sha1-indE8kN/gfXtMlDtnxVQ3pAv5Uo=
+  resolved "https://registry.yarnpkg.com/extract-files/-/extract-files-9.0.0.tgz#8a7744f2437f81f5ed3250ed9f1550de902fe54a"
+  integrity sha512-CvdFfHkC95B4bBBk36hcEmvdR2awOdhhVUYH6S/zrVj3477zven/fJMYg7121h4T1xHZC+tetUpubpAhxwI7hQ==
 
 extsprintf@1.3.0:
   version "1.3.0"
@@ -4642,8 +4637,8 @@ fast-json-stable-stringify@2.1.0, fast-json-stable-stringify@^2.0.0:
 
 fast-safe-stringify@^2.0.4:
   version "2.0.7"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/fast-safe-stringify/-/fast-safe-stringify-2.0.7.tgz#124aa885899261f68aedb42a7c080de9da608743"
-  integrity sha1-EkqohYmSYfaK7bQqfAgN6dpgh0M=
+  resolved "https://registry.yarnpkg.com/fast-safe-stringify/-/fast-safe-stringify-2.0.7.tgz#124aa885899261f68aedb42a7c080de9da608743"
+  integrity sha512-Utm6CdzT+6xsDk2m8S6uL8VHxNwI6Jub+e9NYTcAms28T84pTa25GJQV9j0CY0N1rM8hK4x6grpF2BQf+2qwVA==
 
 fastparse@^1.1.2:
   version "1.1.2"
@@ -4673,15 +4668,15 @@ faye-websocket@~0.11.1:
 
 fb-watchman@2.0.0:
   version "2.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/fb-watchman/-/fb-watchman-2.0.0.tgz#54e9abf7dfa2f26cd9b1636c588c1afc05de5d58"
+  resolved "https://registry.yarnpkg.com/fb-watchman/-/fb-watchman-2.0.0.tgz#54e9abf7dfa2f26cd9b1636c588c1afc05de5d58"
   integrity sha1-VOmr99+i8mzZsWNsWIwa/AXeXVg=
   dependencies:
     bser "^2.0.0"
 
 fecha@^2.3.3:
   version "2.3.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/fecha/-/fecha-2.3.3.tgz#948e74157df1a32fd1b12c3a3c3cdcb6ec9d96cd"
-  integrity sha1-lI50FX3xoy/RsSw6PDzctuydls0=
+  resolved "https://registry.yarnpkg.com/fecha/-/fecha-2.3.3.tgz#948e74157df1a32fd1b12c3a3c3cdcb6ec9d96cd"
+  integrity sha512-lUGBnIamTAwk4znq5BcqsDaxSmZ9nDVJaij6NvRt/Tg4R69gERA+otPKbS86ROw9nxVMw2/mp1fnaiWqbs6Sdg==
 
 figgy-pudding@^3.4.1, figgy-pudding@^3.5.1:
   version "3.5.2"
@@ -5004,8 +4999,8 @@ glob-parent@^5.1.0, glob-parent@^5.1.1, glob-parent@~5.1.0:
 
 glob@7.1.3:
   version "7.1.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/glob/-/glob-7.1.3.tgz#3960832d3f1574108342dafd3a67b332c0969df1"
-  integrity sha1-OWCDLT8VdBCDQtr9OmezMsCWnfE=
+  resolved "https://registry.yarnpkg.com/glob/-/glob-7.1.3.tgz#3960832d3f1574108342dafd3a67b332c0969df1"
+  integrity sha512-vcfuiIxogLV4DlGBHIUOwI0IbrJ8HWPc4MU7HzviGeNho/UJDfi6B5p3sHeWIQ0KGIU0Jpxi5ZHxemQfLkkAwQ==
   dependencies:
     fs.realpath "^1.0.0"
     inflight "^1.0.4"
@@ -5085,8 +5080,8 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2, graceful-fs@^4.1.6
 
 graphql-code-generator@^0.12.5:
   version "0.12.6"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/graphql-code-generator/-/graphql-code-generator-0.12.6.tgz#72835046d6c833834d616135c59ad19b7af85d24"
-  integrity sha1-coNQRtbIM4NNYWE1xZrRm3r4XSQ=
+  resolved "https://registry.yarnpkg.com/graphql-code-generator/-/graphql-code-generator-0.12.6.tgz#72835046d6c833834d616135c59ad19b7af85d24"
+  integrity sha512-GSU06AJ4sPsqVKpKzK2KfQM+D2WtnGoazey5iLVUfef5LSYNJqFGsCHMN6bTcCoBLUTXs5gq79yaQvJp5P2gbg==
   dependencies:
     "@graphql-modules/epoxy" "0.1.6"
     "@types/babylon" "6.16.3"
@@ -5111,16 +5106,16 @@ graphql-code-generator@^0.12.5:
 
 graphql-codegen-apollo-angular-template@^0.12.5:
   version "0.12.6"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/graphql-codegen-apollo-angular-template/-/graphql-codegen-apollo-angular-template-0.12.6.tgz#1e1e4f489c5535f5e55b5a4fa26e15642edfa991"
-  integrity sha1-Hh5PSJxVNfXlW1pPom4VZC7fqZE=
+  resolved "https://registry.yarnpkg.com/graphql-codegen-apollo-angular-template/-/graphql-codegen-apollo-angular-template-0.12.6.tgz#1e1e4f489c5535f5e55b5a4fa26e15642edfa991"
+  integrity sha512-AoGPkQvhchSYaCyS5dqnREVwAMWlioVN7XAM1R2MOTFypsbXMVKa+kJc+Zmd1D6eNk5uI2iupdi2xoBamYVc4w==
   dependencies:
     dependency-graph "~0.7.2"
     graphql-codegen-typescript-template "0.12.6"
 
 graphql-codegen-compiler@0.12.6:
   version "0.12.6"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/graphql-codegen-compiler/-/graphql-codegen-compiler-0.12.6.tgz#26b8e4c0fe4003c7feb9091d6b259c2505dd837d"
-  integrity sha1-JrjkwP5AA8f+uQkdayWcJQXdg30=
+  resolved "https://registry.yarnpkg.com/graphql-codegen-compiler/-/graphql-codegen-compiler-0.12.6.tgz#26b8e4c0fe4003c7feb9091d6b259c2505dd837d"
+  integrity sha512-f/GP19sMsXggdQHZLb7uZVaiuhDX/EqadeaZI9bRfPaALK02hLIOizTYQBKOVMExSmgj3Hiz6DGgu61gRO6z1w==
   dependencies:
     "@types/handlebars" "4.0.39"
     change-case "3.0.2"
@@ -5131,8 +5126,8 @@ graphql-codegen-compiler@0.12.6:
 
 graphql-codegen-core@0.12.6:
   version "0.12.6"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/graphql-codegen-core/-/graphql-codegen-core-0.12.6.tgz#ab3d4d9b0bd10268de749ae215eba84f7bb98fdb"
-  integrity sha1-qz1NmwvRAmjedJriFeuoT3u5j9s=
+  resolved "https://registry.yarnpkg.com/graphql-codegen-core/-/graphql-codegen-core-0.12.6.tgz#ab3d4d9b0bd10268de749ae215eba84f7bb98fdb"
+  integrity sha512-yRdLsPEd3b4bJ9aYalGVwa7XKNNK3DP85Yq0nCPcqbfj+OnR7xiVNbfd/oshQ4Mb05QOzSw7sDKBVluA0WTXog==
   dependencies:
     graphql-tag "2.9.2"
     graphql-tools "4.0.0"
@@ -5141,13 +5136,13 @@ graphql-codegen-core@0.12.6:
 
 graphql-codegen-introspection-template@^0.12.5:
   version "0.12.6"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/graphql-codegen-introspection-template/-/graphql-codegen-introspection-template-0.12.6.tgz#57e37384d1dd7fba14a0ac4fc8c989f56a358d8c"
-  integrity sha1-V+NzhNHdf7oUoKxPyMmJ9Wo1jYw=
+  resolved "https://registry.yarnpkg.com/graphql-codegen-introspection-template/-/graphql-codegen-introspection-template-0.12.6.tgz#57e37384d1dd7fba14a0ac4fc8c989f56a358d8c"
+  integrity sha512-oHgsqz17oxBC84KT/srzBMCN4fByhe0yMMXaEiUuNQyrcj26eWP2qQBygheYAlcED3cYQ/eW8PL9dwphWxT9iQ==
 
 graphql-codegen-typescript-template@0.12.6:
   version "0.12.6"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/graphql-codegen-typescript-template/-/graphql-codegen-typescript-template-0.12.6.tgz#3120089a7aea93373261377b0e0f89792c8bb5ad"
-  integrity sha1-MSAImnrqkzcyYTd7Dg+JeSyLta0=
+  resolved "https://registry.yarnpkg.com/graphql-codegen-typescript-template/-/graphql-codegen-typescript-template-0.12.6.tgz#3120089a7aea93373261377b0e0f89792c8bb5ad"
+  integrity sha512-Qn0EvuFwOmUy4drNEugczNdSmpNtFjJ3oJAdvLW1nnM54GNMlm+9LJLmZfifjG1uB4nvKORV9+v3dY2fKrxaKQ==
 
 graphql-extensions@^0.14.0:
   version "0.14.0"
@@ -5160,8 +5155,8 @@ graphql-extensions@^0.14.0:
 
 graphql-import@0.7.1:
   version "0.7.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/graphql-import/-/graphql-import-0.7.1.tgz#4add8d91a5f752d764b0a4a7a461fcd93136f223"
-  integrity sha1-St2NkaX3UtdksKSnpGH82TE28iM=
+  resolved "https://registry.yarnpkg.com/graphql-import/-/graphql-import-0.7.1.tgz#4add8d91a5f752d764b0a4a7a461fcd93136f223"
+  integrity sha512-YpwpaPjRUVlw2SN3OPljpWbVRWAhMAyfSba5U47qGMOSsPLi2gYeJtngGpymjm9nk57RFWEpjqwh4+dpYuFAPw==
   dependencies:
     lodash "^4.17.4"
     resolve-from "^4.0.0"
@@ -5175,8 +5170,8 @@ graphql-subscriptions@^1.0.0:
 
 graphql-tag@2.9.2:
   version "2.9.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/graphql-tag/-/graphql-tag-2.9.2.tgz#2f60a5a981375f430bf1e6e95992427dc18af686"
-  integrity sha1-L2ClqYE3X0ML8ebpWZJCfcGK9oY=
+  resolved "https://registry.yarnpkg.com/graphql-tag/-/graphql-tag-2.9.2.tgz#2f60a5a981375f430bf1e6e95992427dc18af686"
+  integrity sha512-qnNmof9pAqj/LUzs3lStP0Gw1qhdVCUS7Ab7+SUB6KD5aX1uqxWQRwMnOGTkhKuLvLNIs1TvNz+iS9kUGl1MhA==
 
 graphql-tag@^2.11.0, graphql-tag@^2.12.0, graphql-tag@^2.9.2:
   version "2.12.4"
@@ -5187,8 +5182,8 @@ graphql-tag@^2.11.0, graphql-tag@^2.12.0, graphql-tag@^2.9.2:
 
 graphql-tools@3.1.1:
   version "3.1.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/graphql-tools/-/graphql-tools-3.1.1.tgz#d593358f01e7c8b1671a17b70ddb034dea9dbc50"
-  integrity sha1-1ZM1jwHnyLFnGhe3DdsDTeqdvFA=
+  resolved "https://registry.yarnpkg.com/graphql-tools/-/graphql-tools-3.1.1.tgz#d593358f01e7c8b1671a17b70ddb034dea9dbc50"
+  integrity sha512-yHvPkweUB0+Q/GWH5wIG60bpt8CTwBklCSzQdEHmRUgAdEQKxw+9B7zB3dG7wB3Ym7M7lfrS4Ej+jtDZfA2UXg==
   dependencies:
     apollo-link "^1.2.2"
     apollo-utilities "^1.0.1"
@@ -5198,8 +5193,8 @@ graphql-tools@3.1.1:
 
 graphql-tools@4.0.0:
   version "4.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/graphql-tools/-/graphql-tools-4.0.0.tgz#6ea01937c6f947212f83567ba687e97c22fdd2a6"
-  integrity sha1-bqAZN8b5RyEvg1Z7pofpfCL90qY=
+  resolved "https://registry.yarnpkg.com/graphql-tools/-/graphql-tools-4.0.0.tgz#6ea01937c6f947212f83567ba687e97c22fdd2a6"
+  integrity sha512-WokvjkanuZwY4BZBS3SlkDjrjCPu7WlCtLB2i9JiiXembVEkNos3Rl90zf7sJu72zSidGzTXU63iXRO2Fg3TtA==
   dependencies:
     apollo-link "^1.2.3"
     apollo-utilities "^1.0.1"
@@ -5220,8 +5215,8 @@ graphql-tools@^4.0.8:
 
 graphql@^15.5.0:
   version "15.5.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/graphql/-/graphql-15.5.0.tgz#39d19494dbe69d1ea719915b578bf920344a69d5"
-  integrity sha1-OdGUlNvmnR6nGZFbV4v5IDRKadU=
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-15.5.0.tgz#39d19494dbe69d1ea719915b578bf920344a69d5"
+  integrity sha512-OmaM7y0kaK31NKG31q4YbD2beNYa6jBBKtMFT6gLYJljHLJr42IqJ8KX08u3Li/0ifzTU5HjmoOOrwa5BRLeDA==
 
 handle-thing@^2.0.0:
   version "2.0.1"
@@ -5230,8 +5225,8 @@ handle-thing@^2.0.0:
 
 handlebars@4.0.12:
   version "4.0.12"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/handlebars/-/handlebars-4.0.12.tgz#2c15c8a96d46da5e266700518ba8cb8d919d5bc5"
-  integrity sha1-LBXIqW1G2l4mZwBRi6jLjZGdW8U=
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.0.12.tgz#2c15c8a96d46da5e266700518ba8cb8d919d5bc5"
+  integrity sha512-RhmTekP+FZL+XNhwS1Wf+bTTZpdLougwt5pcgA1tuz6Jcx0fpH/7z0qd71RKnZHBCxIRBHfBOnio4gViPemNzA==
   dependencies:
     async "^2.5.0"
     optimist "^0.6.1"
@@ -5246,8 +5241,8 @@ har-schema@^2.0.0:
 
 har-validator@~5.1.0, har-validator@~5.1.3:
   version "5.1.5"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/har-validator/-/har-validator-5.1.5.tgz#1f0803b9f8cb20c0fa13822df1ecddb36bde1efd"
-  integrity sha1-HwgDufjLIMD6E4It8ezds2veHv0=
+  resolved "https://registry.yarnpkg.com/har-validator/-/har-validator-5.1.5.tgz#1f0803b9f8cb20c0fa13822df1ecddb36bde1efd"
+  integrity sha512-nmT2T0lljbxdQZfspsno9hgrG3Uir6Ks5afism62poxqBM6sDnMEuPmzTq8XN0OEwqKLLdh1jQI3qyE66Nzb3w==
   dependencies:
     ajv "^6.12.3"
     har-schema "^2.0.0"
@@ -5348,7 +5343,7 @@ hash.js@^1.0.0, hash.js@^1.0.3:
 
 header-case@^1.0.0:
   version "1.0.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/header-case/-/header-case-1.0.1.tgz#9535973197c144b09613cd65d317ef19963bd02d"
+  resolved "https://registry.yarnpkg.com/header-case/-/header-case-1.0.1.tgz#9535973197c144b09613cd65d317ef19963bd02d"
   integrity sha1-lTWXMZfBRLCWE81l0xfvGZY70C0=
   dependencies:
     no-case "^2.2.0"
@@ -5370,8 +5365,8 @@ hmac-drbg@^1.0.1:
 
 hoist-non-react-statics@^3.3.2:
   version "3.3.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/hoist-non-react-statics/-/hoist-non-react-statics-3.3.2.tgz#ece0acaf71d62c2969c2ec59feff42a4b1a85b45"
-  integrity sha1-7OCsr3HWLClpwuxZ/v9CpLGoW0U=
+  resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-3.3.2.tgz#ece0acaf71d62c2969c2ec59feff42a4b1a85b45"
+  integrity sha512-/gGivxi8JPKWNm/W0jSmzcMPpfpPLc3dY/6GxhX2hQ9iGj3aDfklV4ET7NjKpSinLpJ5vafa9iiGIEZg10SfBw==
   dependencies:
     react-is "^16.7.0"
 
@@ -5899,7 +5894,7 @@ is-extendable@^1.0.1:
 
 is-extglob@^1.0.0:
   version "1.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/is-extglob/-/is-extglob-1.0.0.tgz#ac468177c4943405a092fc8f29760c6ffc6206c0"
+  resolved "https://registry.yarnpkg.com/is-extglob/-/is-extglob-1.0.0.tgz#ac468177c4943405a092fc8f29760c6ffc6206c0"
   integrity sha1-rEaBd8SUNAWgkvyPKXYMb/xiBsA=
 
 is-extglob@^2.1.0, is-extglob@^2.1.1:
@@ -5924,14 +5919,14 @@ is-fullwidth-code-point@^3.0.0:
 
 is-glob@4.0.0:
   version "4.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/is-glob/-/is-glob-4.0.0.tgz#9521c76845cc2610a85203ddf080a958c2ffabc0"
+  resolved "https://registry.yarnpkg.com/is-glob/-/is-glob-4.0.0.tgz#9521c76845cc2610a85203ddf080a958c2ffabc0"
   integrity sha1-lSHHaEXMJhCoUgPd8ICpWML/q8A=
   dependencies:
     is-extglob "^2.1.1"
 
 is-glob@^2.0.0:
   version "2.0.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/is-glob/-/is-glob-2.0.1.tgz#d096f926a3ded5600f3fdfd91198cb0888c2d863"
+  resolved "https://registry.yarnpkg.com/is-glob/-/is-glob-2.0.1.tgz#d096f926a3ded5600f3fdfd91198cb0888c2d863"
   integrity sha1-0Jb5JqPe1WAPP9/ZEZjLCIjC2GM=
   dependencies:
     is-extglob "^1.0.0"
@@ -5957,14 +5952,14 @@ is-interactive@^1.0.0:
 
 is-invalid-path@^0.1.0:
   version "0.1.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/is-invalid-path/-/is-invalid-path-0.1.0.tgz#307a855b3cf1a938b44ea70d2c61106053714f34"
+  resolved "https://registry.yarnpkg.com/is-invalid-path/-/is-invalid-path-0.1.0.tgz#307a855b3cf1a938b44ea70d2c61106053714f34"
   integrity sha1-MHqFWzzxqTi0TqcNLGEQYFNxTzQ=
   dependencies:
     is-glob "^2.0.0"
 
 is-lower-case@^1.1.0:
   version "1.1.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/is-lower-case/-/is-lower-case-1.1.3.tgz#7e147be4768dc466db3bfb21cc60b31e6ad69393"
+  resolved "https://registry.yarnpkg.com/is-lower-case/-/is-lower-case-1.1.3.tgz#7e147be4768dc466db3bfb21cc60b31e6ad69393"
   integrity sha1-fhR75HaNxGbbO/shzGCzHmrWk5M=
   dependencies:
     lower-case "^1.1.0"
@@ -6083,7 +6078,7 @@ is-typedarray@~1.0.0:
 
 is-upper-case@^1.1.0:
   version "1.1.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/is-upper-case/-/is-upper-case-1.1.2.tgz#8d0b1fa7e7933a1e58483600ec7d9661cbaf756f"
+  resolved "https://registry.yarnpkg.com/is-upper-case/-/is-upper-case-1.1.2.tgz#8d0b1fa7e7933a1e58483600ec7d9661cbaf756f"
   integrity sha1-jQsfp+eTOh5YSDYA7H2WYcuvdW8=
   dependencies:
     upper-case "^1.1.0"
@@ -6095,7 +6090,7 @@ is-utf8@^0.2.0:
 
 is-valid-path@0.1.1:
   version "0.1.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/is-valid-path/-/is-valid-path-0.1.1.tgz#110f9ff74c37f663e1ec7915eb451f2db93ac9df"
+  resolved "https://registry.yarnpkg.com/is-valid-path/-/is-valid-path-0.1.1.tgz#110f9ff74c37f663e1ec7915eb451f2db93ac9df"
   integrity sha1-EQ+f90w39mPh7HkV60UfLbk6yd8=
   dependencies:
     is-invalid-path "^0.1.0"
@@ -6417,6 +6412,11 @@ jws@^3.2.2:
     jwa "^1.4.1"
     safe-buffer "^5.0.1"
 
+jwt-decode@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/jwt-decode/-/jwt-decode-3.1.2.tgz#3fb319f3675a2df0c2895c8f5e9fa4b67b04ed59"
+  integrity sha512-UfpWE/VZn0iP50d8cz9NrZLM9lSWhcJ+0Gt/nm4by88UL+J1SiKN8/5dkjMmbEzwL2CAe+67GsegCbIKtbp75A==
+
 kareem@2.3.2:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/kareem/-/kareem-2.3.2.tgz#78c4508894985b8d38a0dc15e1a8e11078f2ca93"
@@ -6520,8 +6520,8 @@ kind-of@^6.0.0, kind-of@^6.0.2:
 
 kuler@1.0.x:
   version "1.0.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/kuler/-/kuler-1.0.1.tgz#ef7c784f36c9fb6e16dd3150d152677b2b0228a6"
-  integrity sha1-73x4TzbJ+24W3TFQ0VJneysCKKY=
+  resolved "https://registry.yarnpkg.com/kuler/-/kuler-1.0.1.tgz#ef7c784f36c9fb6e16dd3150d152677b2b0228a6"
+  integrity sha512-J9nVUucG1p/skKul6DU3PUZrhs0LPulNaeUOox0IyXDi8S4CztTHs1gQphhuZmzXG7VOQSf6NJfKuzteQLv9gQ==
   dependencies:
     colornames "^1.1.1"
 
@@ -6721,8 +6721,8 @@ log4js@^6.2.1:
 
 logform@^1.9.0, logform@^1.9.1:
   version "1.10.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/logform/-/logform-1.10.0.tgz#c9d5598714c92b546e23f4e78147c40f1e02012e"
-  integrity sha1-ydVZhxTJK1RuI/TngUfEDx4CAS4=
+  resolved "https://registry.yarnpkg.com/logform/-/logform-1.10.0.tgz#c9d5598714c92b546e23f4e78147c40f1e02012e"
+  integrity sha512-em5ojIhU18fIMOw/333mD+ZLE2fis0EzXl1ZwHx4iQzmpQi6odNiY/t+ITNr33JZhT9/KEaH+UPIipr6a9EjWg==
   dependencies:
     colors "^1.2.1"
     fast-safe-stringify "^2.0.4"
@@ -6757,14 +6757,14 @@ loud-rejection@^1.0.0:
 
 lower-case-first@^1.0.0:
   version "1.0.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/lower-case-first/-/lower-case-first-1.0.2.tgz#e5da7c26f29a7073be02d52bac9980e5922adfa1"
+  resolved "https://registry.yarnpkg.com/lower-case-first/-/lower-case-first-1.0.2.tgz#e5da7c26f29a7073be02d52bac9980e5922adfa1"
   integrity sha1-5dp8JvKacHO+AtUrrJmA5ZIq36E=
   dependencies:
     lower-case "^1.1.2"
 
 lower-case@^1.1.0, lower-case@^1.1.1, lower-case@^1.1.2:
   version "1.1.4"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/lower-case/-/lower-case-1.1.4.tgz#9a2cabd1b9e8e0ae993a4bf7d5875c39c42e8eac"
+  resolved "https://registry.yarnpkg.com/lower-case/-/lower-case-1.1.4.tgz#9a2cabd1b9e8e0ae993a4bf7d5875c39c42e8eac"
   integrity sha1-miyr0bno4K6ZOkv31YdcOcQujqw=
 
 lru-cache@^5.1.1:
@@ -7021,7 +7021,7 @@ minimatch@3.0.4, minimatch@^3.0.4:
 
 minimist@0.0.8:
   version "0.0.8"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
   integrity sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=
 
 minimist@^1.1.3, minimist@^1.2.0, minimist@^1.2.5:
@@ -7031,7 +7031,7 @@ minimist@^1.1.3, minimist@^1.2.0, minimist@^1.2.5:
 
 minimist@~0.0.1:
   version "0.0.10"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/minimist/-/minimist-0.0.10.tgz#de3f98543dbf96082be48ad1a0c7cda836301dcf"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.10.tgz#de3f98543dbf96082be48ad1a0c7cda836301dcf"
   integrity sha1-3j+YVD2/lggr5IrRoMfNqDYwHc8=
 
 minipass-collect@^1.0.2:
@@ -7111,7 +7111,7 @@ mixin-deep@^1.2.0:
 
 mkdirp@0.5.1:
   version "0.5.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
+  resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
   integrity sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=
   dependencies:
     minimist "0.0.8"
@@ -7130,7 +7130,7 @@ mkdirp@^1.0.3, mkdirp@^1.0.4:
 
 moment@2.22.2:
   version "2.22.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/moment/-/moment-2.22.2.tgz#3c257f9839fc0e93ff53149632239eb90783ff66"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.2.tgz#3c257f9839fc0e93ff53149632239eb90783ff66"
   integrity sha1-PCV/mDn8DpP/UxSWMiOeuQeD/2Y=
 
 mongodb@3.6.6:
@@ -7291,8 +7291,8 @@ nice-try@^1.0.4:
 
 no-case@^2.2.0, no-case@^2.3.2:
   version "2.3.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/no-case/-/no-case-2.3.2.tgz#60b813396be39b3f1288a4c1ed5d1e7d28b464ac"
-  integrity sha1-YLgTOWvjmz8SiKTB7V0efSi0ZKw=
+  resolved "https://registry.yarnpkg.com/no-case/-/no-case-2.3.2.tgz#60b813396be39b3f1288a4c1ed5d1e7d28b464ac"
+  integrity sha512-rmTZ9kz+f3rCvK2TD1Ue/oZlns7OGoIWP4fc3llxxRXlOkHKoWPPWJOfFYpITabSow43QJbRIoHQXtt10VldyQ==
   dependencies:
     lower-case "^1.1.1"
 
@@ -7317,7 +7317,7 @@ node-forge@^0.10.0:
 
 node-int64@^0.4.0:
   version "0.4.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/node-int64/-/node-int64-0.4.0.tgz#87a9065cdb355d3182d8f94ce11188b825c68a3b"
+  resolved "https://registry.yarnpkg.com/node-int64/-/node-int64-0.4.0.tgz#87a9065cdb355d3182d8f94ce11188b825c68a3b"
   integrity sha1-h6kGXNs1XTGC2PlM4RGIuCXGijs=
 
 node-libs-browser@^2.2.1:
@@ -7618,7 +7618,7 @@ once@^1.3.0, once@^1.3.1, once@^1.4.0:
 
 one-time@0.0.4:
   version "0.0.4"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/one-time/-/one-time-0.0.4.tgz#f8cdf77884826fe4dff93e3a9cc37b1e4480742e"
+  resolved "https://registry.yarnpkg.com/one-time/-/one-time-0.0.4.tgz#f8cdf77884826fe4dff93e3a9cc37b1e4480742e"
   integrity sha1-+M33eISCb+Tf+T46nMN7HkSAdC4=
 
 onetime@^5.1.0:
@@ -7645,23 +7645,23 @@ opn@^5.5.0:
 
 optimism@^0.10.0:
   version "0.10.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/optimism/-/optimism-0.10.3.tgz#163268fdc741dea2fb50f300bedda80356445fd7"
-  integrity sha1-FjJo/cdB3qL7UPMAvt2oA1ZEX9c=
+  resolved "https://registry.yarnpkg.com/optimism/-/optimism-0.10.3.tgz#163268fdc741dea2fb50f300bedda80356445fd7"
+  integrity sha512-9A5pqGoQk49H6Vhjb9kPgAeeECfUDF6aIICbMDL23kDLStBn1MWk3YvcZ4xWF9CsSf6XEgvRLkXy4xof/56vVw==
   dependencies:
     "@wry/context" "^0.4.0"
 
 optimism@^0.16.0:
   version "0.16.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/optimism/-/optimism-0.16.1.tgz#7c8efc1f3179f18307b887e18c15c5b7133f6e7d"
-  integrity sha1-fI78HzF58YMHuIfhjBXFtxM/bn0=
+  resolved "https://registry.yarnpkg.com/optimism/-/optimism-0.16.1.tgz#7c8efc1f3179f18307b887e18c15c5b7133f6e7d"
+  integrity sha512-64i+Uw3otrndfq5kaoGNoY7pvOhSsjFEN4bdEFh80MWVk/dbgJfMv7VFDeCT8LxNAlEVhQmdVEbfE7X2nWNIIg==
   dependencies:
     "@wry/context" "^0.6.0"
     "@wry/trie" "^0.3.0"
 
 optimist@^0.6.1:
   version "0.6.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/mirrow/optimist-0.6.1.tgz#b754e7c27df28c89643bcdd4de4143e410046bc4"
-  integrity sha1-t1Tnwn3yjIlkO83U3kFD5BAEa8Q=
+  resolved "https://registry.yarnpkg.com/optimist/-/optimist-0.6.1.tgz#da3ea74686fa21a19a111c326e90eb15a0196686"
+  integrity sha1-2j6nRob6IaGaERwybpDrFaAZZoY=
   dependencies:
     minimist "~0.0.1"
     wordwrap "~0.0.2"
@@ -7824,7 +7824,7 @@ parallel-transform@^1.1.0:
 
 param-case@^2.1.0:
   version "2.1.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/param-case/-/param-case-2.1.1.tgz#df94fd8cf6531ecf75e6bef9a0858fbc72be2247"
+  resolved "https://registry.yarnpkg.com/param-case/-/param-case-2.1.1.tgz#df94fd8cf6531ecf75e6bef9a0858fbc72be2247"
   integrity sha1-35T9jPZTHs915r75oIWPvHK+Ikc=
   dependencies:
     no-case "^2.2.0"
@@ -7877,7 +7877,7 @@ parseurl@^1.3.2, parseurl@~1.3.2, parseurl@~1.3.3:
 
 pascal-case@^2.0.0:
   version "2.0.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/pascal-case/-/pascal-case-2.0.1.tgz#2d578d3455f660da65eca18ef95b4e0de912761e"
+  resolved "https://registry.yarnpkg.com/pascal-case/-/pascal-case-2.0.1.tgz#2d578d3455f660da65eca18ef95b4e0de912761e"
   integrity sha1-LVeNNFX2YNpl7KGO+VtODekSdh4=
   dependencies:
     camel-case "^3.0.0"
@@ -7895,7 +7895,7 @@ path-browserify@0.0.1:
 
 path-case@^2.1.0:
   version "2.1.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/path-case/-/path-case-2.1.1.tgz#94b8037c372d3fe2906e465bb45e25d226e8eea5"
+  resolved "https://registry.yarnpkg.com/path-case/-/path-case-2.1.1.tgz#94b8037c372d3fe2906e465bb45e25d226e8eea5"
   integrity sha1-lLgDfDctP+KQbkZbtF4l0ibo7qU=
   dependencies:
     no-case "^2.2.0"
@@ -7978,14 +7978,14 @@ performance-now@^2.1.0:
   integrity sha1-Ywn04OX6kT7BxpMHrjZLSzd8nns=
 
 picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.2.3.tgz#465547f359ccc206d3c48e46a1bcb89bf7ee619d"
-  integrity sha512-KpELjfwcCDUb9PeigTs2mBJzXUPzAuP2oPcA989He8Rte0+YUAjw1JVedDhuTKPkHjSYzMN3npC9luThGYEKdg==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.0.tgz#f1f061de8f6a4bf022892e2d128234fb98302972"
+  integrity sha512-lY1Q/PiJGC2zOv/z391WOTD+Z02bCgsFfvxoXXf6h7kv9o+WmsmzYqrAwY63sNgOxE4xEdq0WyUnXfKeBrSvYw==
 
 pify@4.0.0:
   version "4.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/pify/-/pify-4.0.0.tgz#db04c982b632fd0df9090d14aaf1c8413cadb695"
-  integrity sha1-2wTJgrYy/Q35CQ0UqvHIQTyttpU=
+  resolved "https://registry.yarnpkg.com/pify/-/pify-4.0.0.tgz#db04c982b632fd0df9090d14aaf1c8413cadb695"
+  integrity sha512-zrSP/KDf9DH3K3VePONoCstgPiYJy9z0SCatZuTpOc7YdnWIqwkWdXOuwlr4uDc7em8QZRsFWsT/685x5InjYg==
 
 pify@^2.0.0, pify@^2.3.0:
   version "2.3.0"
@@ -8422,8 +8422,8 @@ prepend-http@^1.0.0:
 
 prettier@1.14.3:
   version "1.14.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/prettier/-/prettier-1.14.3.tgz#90238dd4c0684b7edce5f83b0fb7328e48bd0895"
-  integrity sha1-kCON1MBoS37c5fg7D7cyjki9CJU=
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.14.3.tgz#90238dd4c0684b7edce5f83b0fb7328e48bd0895"
+  integrity sha512-qZDVnCrnpsRJJq5nSsiHCE3BYMED2OtsI+cmzIzF1QIfqm5ALf8tEJcO27zV1gKNKRPdhjO0dNWnrzssDQ1tFg==
 
 process-nextick-args@~2.0.0:
   version "2.0.1"
@@ -8450,8 +8450,8 @@ promise-retry@^1.1.1:
 
 prop-types@^15.7.2:
   version "15.7.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
-  integrity sha1-UsQedbjIfnK52TYOAga5ncv/psU=
+  resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
+  integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
   dependencies:
     loose-envify "^1.4.0"
     object-assign "^4.1.1"
@@ -8500,8 +8500,8 @@ prr@~1.0.1:
 
 psl@^1.1.24, psl@^1.1.28:
   version "1.8.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/psl/-/psl-1.8.0.tgz#9326f8bcfb013adcc005fdff056acce020e51c24"
-  integrity sha1-kyb4vPsBOtzABf3/BWrM4CDlHCQ=
+  resolved "https://registry.yarnpkg.com/psl/-/psl-1.8.0.tgz#9326f8bcfb013adcc005fdff056acce020e51c24"
+  integrity sha512-RIdOzyoavK+hA18OGGWDqUTsCLhtA7IcZ/6NCs4fFJaHBDab+pDDmDIByWFRQJq2Cd7r1OoQxBGKOaztq+hjIQ==
 
 public-encrypt@^4.0.0:
   version "4.0.3"
@@ -8547,7 +8547,7 @@ punycode@1.3.2:
 
 punycode@^1.2.4, punycode@^1.4.1:
   version "1.4.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/punycode/-/punycode-1.4.1.tgz#c0d5a63b2718800ad8e1eb0fa5269c84dd41845e"
+  resolved "https://registry.yarnpkg.com/punycode/-/punycode-1.4.1.tgz#c0d5a63b2718800ad8e1eb0fa5269c84dd41845e"
   integrity sha1-wNWmOycYgArY4esPpSachN1BhF4=
 
 punycode@^2.1.0, punycode@^2.1.1:
@@ -8648,8 +8648,8 @@ raw-loader@4.0.1:
 
 react-is@^16.7.0, react-is@^16.8.1:
   version "16.13.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
-  integrity sha1-eJcppNw23imZ3BVt1sHZwYzqVqQ=
+  resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
+  integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
 read-cache@^1.0.0:
   version "1.0.0"
@@ -8867,8 +8867,8 @@ repeating@^2.0.0:
 
 request@2.88.0:
   version "2.88.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
-  integrity sha1-nC/KT301tZLv5Xx/ClXoEFIST+8=
+  resolved "https://registry.yarnpkg.com/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
+  integrity sha512-NAqBSrijGLZdM0WZNsInLJpkJokL72XYjUpnB0iwsRgxh7dB6COrHnTBNwN0E+lHDAJzu7kLAkDeY08z2/A0hg==
   dependencies:
     aws-sign2 "~0.7.0"
     aws4 "^1.8.0"
@@ -8946,8 +8946,8 @@ resolve-from@^3.0.0:
 
 resolve-from@^4.0.0:
   version "4.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/resolve-from/-/resolve-from-4.0.0.tgz#4abcd852ad32dd7baabfe9b40e00a36db5f392e6"
-  integrity sha1-SrzYUq0y3Xuqv+m0DgCjbbXzkuY=
+  resolved "https://registry.yarnpkg.com/resolve-from/-/resolve-from-4.0.0.tgz#4abcd852ad32dd7baabfe9b40e00a36db5f392e6"
+  integrity sha512-pb/MYmXstAkysRFx8piNI1tGFNQIFA3vkE3Gq4EuA1dF6gHp/+vgZqsCGJapvy8N3Q+4o7FwvquPJcnZ7RYy4g==
 
 resolve-url-loader@3.1.1:
   version "3.1.1"
@@ -9257,7 +9257,7 @@ send@0.17.1:
 
 sentence-case@^2.1.0:
   version "2.1.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/sentence-case/-/sentence-case-2.1.1.tgz#1f6e2dda39c168bf92d13f86d4a918933f667ed4"
+  resolved "https://registry.yarnpkg.com/sentence-case/-/sentence-case-2.1.1.tgz#1f6e2dda39c168bf92d13f86d4a918933f667ed4"
   integrity sha1-H24t2jnBaL+S0T+G1KkYkz9mftQ=
   dependencies:
     no-case "^2.2.0"
@@ -9401,7 +9401,7 @@ smart-buffer@^4.1.0:
 
 snake-case@^2.1.0:
   version "2.1.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/snake-case/-/snake-case-2.1.0.tgz#41bdb1b73f30ec66a04d4e2cad1b76387d4d6d9f"
+  resolved "https://registry.yarnpkg.com/snake-case/-/snake-case-2.1.0.tgz#41bdb1b73f30ec66a04d4e2cad1b76387d4d6d9f"
   integrity sha1-Qb2xtz8w7GagTU4srRt2OH1NbZ8=
   dependencies:
     no-case "^2.2.0"
@@ -9633,9 +9633,9 @@ spdx-expression-parse@^3.0.0:
     spdx-license-ids "^3.0.0"
 
 spdx-license-ids@^3.0.0:
-  version "3.0.8"
-  resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-3.0.8.tgz#eb1e97ad99b11bf3f82a3b71a0472dd9a00f2ecf"
-  integrity sha512-NDgA96EnaLSvtbM7trJj+t1LUR3pirkDCcz9nOUlPb5DMBGsH7oES6C3hs3j7R9oHEa1EMvReS/BUAIT5Tcr0g==
+  version "3.0.9"
+  resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-3.0.9.tgz#8a595135def9592bda69709474f1cbeea7c2467f"
+  integrity sha512-Ki212dKK4ogX+xDo4CtOZBVIwhsKBEfsEEcwmJfLQzirgc2jIWdzg40Unxz/HzEUqM1WFzVlQSMF9kZZ2HboLQ==
 
 spdy-transport@^3.0.0:
   version "3.0.0"
@@ -9720,7 +9720,7 @@ stable@^0.1.8:
 
 stack-trace@0.0.x:
   version "0.0.10"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/stack-trace/-/stack-trace-0.0.10.tgz#547c70b347e8d32b4e108ea1a2a159e5fdde19c0"
+  resolved "https://registry.yarnpkg.com/stack-trace/-/stack-trace-0.0.10.tgz#547c70b347e8d32b4e108ea1a2a159e5fdde19c0"
   integrity sha1-VHxws0fo0ytOEI6hoqFZ5f3eGcA=
 
 static-extend@^0.1.1:
@@ -9988,7 +9988,7 @@ svgo@^1.0.0:
 
 swap-case@^1.1.0:
   version "1.1.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/swap-case/-/swap-case-1.1.2.tgz#c39203a4587385fad3c850a0bd1bcafa081974e3"
+  resolved "https://registry.yarnpkg.com/swap-case/-/swap-case-1.1.2.tgz#c39203a4587385fad3c850a0bd1bcafa081974e3"
   integrity sha1-w5IDpFhzhfrTyFCgvRvK+ggZdOM=
   dependencies:
     lower-case "^1.1.1"
@@ -10001,8 +10001,8 @@ symbol-observable@1.2.0, symbol-observable@^1.0.2, symbol-observable@^1.0.4:
 
 symbol-observable@^2.0.0:
   version "2.0.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/symbol-observable/-/symbol-observable-2.0.3.tgz#5b521d3d07a43c351055fa43b8355b62d33fd16a"
-  integrity sha1-W1IdPQekPDUQVfpDuDVbYtM/0Wo=
+  resolved "https://registry.yarnpkg.com/symbol-observable/-/symbol-observable-2.0.3.tgz#5b521d3d07a43c351055fa43b8355b62d33fd16a"
+  integrity sha512-sQV7phh2WCYAn81oAkakC5qjq2Ml0g8ozqz03wOGnx9dDlG1de6yrF+0RAzSJD8fPUow3PTSMf2SAbOGxb93BA==
 
 tapable@^1.0.0, tapable@^1.1.3:
   version "1.1.3"
@@ -10084,8 +10084,8 @@ terser@^4.1.2, terser@^4.6.13:
 
 text-hex@1.0.x:
   version "1.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/text-hex/-/text-hex-1.0.0.tgz#69dc9c1b17446ee79a92bf5b884bb4b9127506f5"
-  integrity sha1-adycGxdEbueakr9biEu0uRJ1BvU=
+  resolved "https://registry.yarnpkg.com/text-hex/-/text-hex-1.0.0.tgz#69dc9c1b17446ee79a92bf5b884bb4b9127506f5"
+  integrity sha512-uuVGNWzgJ4yhRaNSiubPY7OjISw4sw4E5Uv0wbjp+OzcbmVU/rsT8ujgcXJhn9ypzsgr5vlzpPqP+MBBKcGvbg==
 
 through2@^2.0.0:
   version "2.0.5"
@@ -10119,7 +10119,7 @@ timsort@^0.3.0:
 
 title-case@^2.1.0:
   version "2.1.1"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/title-case/-/title-case-2.1.1.tgz#3e127216da58d2bc5becf137ab91dae3a7cd8faa"
+  resolved "https://registry.yarnpkg.com/title-case/-/title-case-2.1.1.tgz#3e127216da58d2bc5becf137ab91dae3a7cd8faa"
   integrity sha1-PhJyFtpY0rxb7PE3q5Ha46fNj6o=
   dependencies:
     no-case "^2.2.0"
@@ -10200,8 +10200,8 @@ toidentifier@1.0.0:
 
 tough-cookie@~2.4.3:
   version "2.4.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/tough-cookie/-/tough-cookie-2.4.3.tgz#53f36da3f47783b0925afa06ff9f3b165280f781"
-  integrity sha1-U/Nto/R3g7CSWvoG/587FlKA94E=
+  resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-2.4.3.tgz#53f36da3f47783b0925afa06ff9f3b165280f781"
+  integrity sha512-Q5srk/4vDM54WJsJio3XNn6K2sCG+CQ8G5Wz6bZhRZoAe/+TxjWB/GlFAnYEbkYVlON9FMk/fE3h2RLpPXo4lQ==
   dependencies:
     psl "^1.1.24"
     punycode "^1.4.1"
@@ -10215,9 +10215,9 @@ tough-cookie@~2.5.0:
     punycode "^2.1.1"
 
 tr46@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/tr46/-/tr46-2.0.2.tgz#03273586def1595ae08fedb38d7733cee91d2479"
-  integrity sha512-3n1qG+/5kg+jrbTzwAykB5yRYtQCTqOGKq5U5PE3b0a1/mzo6snDhjGS0zJVJunO0NrT3Dg1MLy5TjWP/UJppg==
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/tr46/-/tr46-2.1.0.tgz#fa87aa81ca5d5941da8cbf1f9b749dc969a4e240"
+  integrity sha512-15Ih7phfcdP5YxqiB+iDtLoaTz4Nd35+IiAv0kQ5FNKHzXgdWqPoTIqEDDJmXceQt4JZk6lVPT8lnDlPpGDppw==
   dependencies:
     punycode "^2.1.1"
 
@@ -10233,8 +10233,8 @@ trim-newlines@^1.0.0:
 
 triple-beam@^1.2.0, triple-beam@^1.3.0:
   version "1.3.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/triple-beam/-/triple-beam-1.3.0.tgz#a595214c7298db8339eeeee083e4d10bd8cb8dd9"
-  integrity sha1-pZUhTHKY24M57u7gg+TRC9jLjdk=
+  resolved "https://registry.yarnpkg.com/triple-beam/-/triple-beam-1.3.0.tgz#a595214c7298db8339eeeee083e4d10bd8cb8dd9"
+  integrity sha512-XrHUvV5HpdLmIj4uVMxHggLbFSZYIn7HEWsqePZcI50pco+MPqJ50wMGY794X7AOOhxOBAjbkqfAbEe/QMp2Lw==
 
 ts-invariant@^0.4.0:
   version "0.4.4"
@@ -10245,15 +10245,15 @@ ts-invariant@^0.4.0:
 
 ts-invariant@^0.7.0:
   version "0.7.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/ts-invariant/-/ts-invariant-0.7.3.tgz#13aae22a4a165393aaf5cecdee45ef4128d358b8"
-  integrity sha1-E6riKkoWU5Oq9c7N7kXvQSjTWLg=
+  resolved "https://registry.yarnpkg.com/ts-invariant/-/ts-invariant-0.7.3.tgz#13aae22a4a165393aaf5cecdee45ef4128d358b8"
+  integrity sha512-UWDDeovyUTIMWj+45g5nhnl+8oo+GhxL5leTaHn5c8FkQWfh8v66gccLd2/YzVmV5hoQUjCEjhrXnQqVDJdvKA==
   dependencies:
     tslib "^2.1.0"
 
 ts-log@2.1.3:
   version "2.1.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/ts-log/-/ts-log-2.1.3.tgz#9e30aca1baffe7693a2e4142b8f07ecb01cb8340"
-  integrity sha1-njCsobr/52k6LkFCuPB+ywHLg0A=
+  resolved "https://registry.yarnpkg.com/ts-log/-/ts-log-2.1.3.tgz#9e30aca1baffe7693a2e4142b8f07ecb01cb8340"
+  integrity sha512-VIk9+hzE80UjhJcSANst8LGRBpfNh32y9d3LVDMtEqcEb1x0hB71IO0aObNcLJ5VpK5tKeF9uI4pwEco03SkwA==
 
 ts-node-dev@^1.1.6:
   version "1.1.6"
@@ -10408,8 +10408,8 @@ ua-parser-js@0.7.21:
 
 uglify-js@^3.1.4:
   version "3.13.7"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/uglify-js/-/uglify-js-3.13.7.tgz#25468a3b39b1c875df03f0937b2b7036a93f3fee"
-  integrity sha1-JUaKOzmxyHXfA/CTeytwNqk/P+4=
+  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.13.7.tgz#25468a3b39b1c875df03f0937b2b7036a93f3fee"
+  integrity sha512-1Psi2MmnZJbnEsgJJIlfnd7tFlJfitusmR7zDI8lXlFI0ACD4/Rm/xdrU8bh6zF0i74aiVoBtkRiFulkrmh3AA==
 
 unbox-primitive@^1.0.0:
   version "1.0.1"
@@ -10517,14 +10517,14 @@ upath@^1.1.1:
 
 upper-case-first@^1.1.0, upper-case-first@^1.1.2:
   version "1.1.2"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/upper-case-first/-/upper-case-first-1.1.2.tgz#5d79bedcff14419518fd2edb0a0507c9b6859115"
+  resolved "https://registry.yarnpkg.com/upper-case-first/-/upper-case-first-1.1.2.tgz#5d79bedcff14419518fd2edb0a0507c9b6859115"
   integrity sha1-XXm+3P8UQZUY/S7bCgUHybaFkRU=
   dependencies:
     upper-case "^1.1.1"
 
 upper-case@^1.0.3, upper-case@^1.1.0, upper-case@^1.1.1, upper-case@^1.1.3:
   version "1.1.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/upper-case/-/upper-case-1.1.3.tgz#f6b4501c2ec4cdd26ba78be7222961de77621598"
+  resolved "https://registry.yarnpkg.com/upper-case/-/upper-case-1.1.3.tgz#f6b4501c2ec4cdd26ba78be7222961de77621598"
   integrity sha1-9rRQHC7EzdJrp4vnIilh3ndiFZg=
 
 uri-js@^4.2.2:
@@ -10629,7 +10629,7 @@ uuid@^8.0.0:
 
 valid-url@1.0.9:
   version "1.0.9"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/valid-url/-/valid-url-1.0.9.tgz#1c14479b40f1397a75782f115e4086447433a200"
+  resolved "https://registry.yarnpkg.com/valid-url/-/valid-url-1.0.9.tgz#1c14479b40f1397a75782f115e4086447433a200"
   integrity sha1-HBRHm0DxOXp1eC8RXkCGRHQzogA=
 
 validate-npm-package-license@^3.0.1:
@@ -10923,16 +10923,16 @@ which@^1.2.1, which@^1.2.9, which@^1.3.1:
 
 winston-transport@^4.2.0:
   version "4.4.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/winston-transport/-/winston-transport-4.4.0.tgz#17af518daa690d5b2ecccaa7acf7b20ca7925e59"
-  integrity sha1-F69RjappDVsuzMqnrPeyDKeSXlk=
+  resolved "https://registry.yarnpkg.com/winston-transport/-/winston-transport-4.4.0.tgz#17af518daa690d5b2ecccaa7acf7b20ca7925e59"
+  integrity sha512-Lc7/p3GtqtqPBYYtS6KCN3c77/2QCev51DvcJKbkFPQNoj1sinkGwLGFDxkXY9J6p9+EPnYs+D90uwbnaiURTw==
   dependencies:
     readable-stream "^2.3.7"
     triple-beam "^1.2.0"
 
 winston@3.0.0:
   version "3.0.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/winston/-/winston-3.0.0.tgz#1f0b24a96586798bcf0cd149fb07ed47cb01a1b2"
-  integrity sha1-HwskqWWGeYvPDNFJ+wftR8sBobI=
+  resolved "https://registry.yarnpkg.com/winston/-/winston-3.0.0.tgz#1f0b24a96586798bcf0cd149fb07ed47cb01a1b2"
+  integrity sha512-7QyfOo1PM5zGL6qma6NIeQQMh71FBg/8fhkSAePqtf5YEi6t+UrPDcUuHhuuUasgso49ccvMEsmqr0GBG2qaMQ==
   dependencies:
     async "^2.6.0"
     diagnostics "^1.0.1"
@@ -10946,8 +10946,8 @@ winston@3.0.0:
 
 winston@3.1.0:
   version "3.1.0"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/winston/-/winston-3.1.0.tgz#80724376aef164e024f316100d5b178d78ac5331"
-  integrity sha1-gHJDdq7xZOAk8xYQDVsXjXisUzE=
+  resolved "https://registry.yarnpkg.com/winston/-/winston-3.1.0.tgz#80724376aef164e024f316100d5b178d78ac5331"
+  integrity sha512-FsQfEE+8YIEeuZEYhHDk5cILo1HOcWkGwvoidLrDgPog0r4bser1lEIOco2dN9zpDJ1M88hfDgZvxe5z4xNcwg==
   dependencies:
     async "^2.6.0"
     diagnostics "^1.1.1"
@@ -10961,8 +10961,8 @@ winston@3.1.0:
 
 wordwrap@~0.0.2:
   version "0.0.3"
-  resolved "https://bams-aws.refinitiv.com/artifactory/api/npm/default.npm.global/mirrow/wordwrap-0.0.3.tgz#2fd4c31d8dfaf5074648c452096ac49af3fa0d57"
-  integrity sha1-L9TDHY369QdGSMRSCWrEmvP6DVc=
+  resolved "https://registry.yarnpkg.com/wordwrap/-/wordwrap-0.0.3.tgz#a3d5da6cd5c0bc0008d37234bbaf1bed63059107"
+  integrity sha1-o9XabNXAvAAI03I0u68b7WMFkQc=
 
 worker-farm@^1.7.0:
   version "1.7.0"

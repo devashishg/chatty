@@ -36,16 +36,18 @@ export const typeDefs = gql`
     email: String!
   }
 
-  type Message {
+  input Message {
     groupId: ID!
     message: String!
     user: String!
     ts: Int!
   }
 
-  type Error {
-    message:String!
-    status: Int!
+  type messageBroadcast {
+    groupId: ID!
+    message: String!
+    user: String!
+    ts: Int!
   }
 
   type Query {
@@ -55,19 +57,14 @@ export const typeDefs = gql`
 
   type Mutation {
     registerUser (user: newUser!): ID!
-    signIn (user: signinReq!): Boolean!
+    signIn (user: signinReq!): String!
+    Message (message: Message!): Boolean!
   }
 
   type Subscription {
-    newMessage (groupId: String!): Int
+    newMessage (groupId: String!): messageBroadcast!
   }
 
 `;
 
 
-
-
-
-// type Mutation {
-//   createUser(name: String!, email: String!, key: String!) : user!
-// }

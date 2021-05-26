@@ -1,7 +1,7 @@
 mutation signin($id: ID!) {
-  likeTweet(id: $id) {
-    id
-    text
-    likes
-  }
+    likeTweet(id: $id) {
+        id
+        text
+        likes
+    }
 }

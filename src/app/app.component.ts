@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 import { SubscriptionResult } from 'apollo-angular';
 import { Subscription } from 'rxjs';
 import Observable from 'zen-observable';
-import { MessageService } from './services/message.service';
 
 @Component({
   selector: 'app-root',
@@ -11,9 +10,4 @@ import { MessageService } from './services/message.service';
 })
 export class AppComponent {
   title = 'chatty';
-  lastPost: any;
-
-  constructor(newPostGQL: MessageService) {
-    // this.lastPost = newPostGQL.subscribe();
-  }
 }

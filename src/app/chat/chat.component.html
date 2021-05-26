@@ -1,1 +1,21 @@
-<p>chat works!</p>
+<div class="container border border-dark p-3 my-2">
+  <div class="custom-container overflow-auto chat-layout">
+    <ng-container *ngFor="let chat of myChats">
+      <div *ngIf="chat.user !== user;else other">
+         <div class="float-left my-1 chat p-2">
+           <div class="user">{{ chat.user }}</div>
+           {{ chat.message }}
+          </div>
+      </div>
+      <ng-template #other> <div class="ml-auto my-1 chat-me p-2">
+        <div class="user">{{ chat.user }}</div>
+         {{ chat.message }}
+        </div>
+      </ng-template>
+    </ng-container>
+  </div>
+  <div class="d-flex w-100 my-2">
+    <input  type="text" class="form-control" #chata [formControl]="chat" (keyup)="chata.value? send($event) : false"/>
+    <button class="btn btn-secondary mx-3" (click)="chata.value? send($event) : false" >send</button>
+  </div>
+</div>

@@ -1,0 +1,31 @@
+.d-flex {
+  display: flex;
+}
+
+.custom-container {
+  height: 80vh;
+  align-items: center;
+}
+
+
+.chat-layout  {
+  display: flex;
+  align-items: baseline;
+  flex-direction: column;
+}
+
+.user {
+  font-size: x-small;
+}
+
+.chat {
+  background-color: gray;
+  margin: 8px;
+  border-radius: 10px;
+}
+
+.chat-me {
+  background-color: aquamarine;
+  margin: 8px;
+  border-radius: 10px;
+}

@@ -8,27 +8,30 @@ import { AuthenticationGuardService } from './services/guard.service'
 
 
 const routes: Routes = [
-  { path: 'login', component: LoginComponent },
   {
-      path: 'home/:groupId',
-      component: ChatComponent,
-      canActivate: [AuthenticationGuardService]
+    path: 'login', component: LoginComponent,
+    canActivate: [AuthenticationGuardService]
   },
   {
-      path: 'home',
-      component: HomeComponent,
-      canActivate: [AuthenticationGuardService]
+    path: 'home/:groupId',
+    component: ChatComponent,
+    canActivate: [AuthenticationGuardService]
   },
   {
-      path: '**',
-      redirectTo: 'login',
-      pathMatch: 'full',
-      canActivate: [AuthenticationGuardService]
+    path: 'home',
+    component: HomeComponent,
+    canActivate: [AuthenticationGuardService]
+  },
+  {
+    path: '**',
+    redirectTo: 'login',
+    pathMatch: 'full',
+    canActivate: [AuthenticationGuardService]
   }
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes, {useHash: true})],
+  imports: [RouterModule.forRoot(routes, { useHash: true })],
   exports: [RouterModule]
 })
 export class AppRoutingModule { }

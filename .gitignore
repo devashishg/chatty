@@ -4,6 +4,9 @@
 /dist
 /tmp
 /out-tsc
+/backend/dist
+/backend/public
+/.vscode
 # Only exists if Bazel was run
 /bazel-out
 
@@ -17,11 +20,13 @@ speed-measure-plugin*.json
 # IDEs and editors
 /.idea
 .project
+.env
 .classpath
 .c9/
 *.launch
 .settings/
 *.sublime-workspace
+
 
 # IDE - VSCode
 .vscode/*

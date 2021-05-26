@@ -15,4 +15,4 @@ const userSchema = new Schema({
 
 userSchema.set("toJSON",{ virtuals: true })
 
-export const userModel =  model("user", userSchema);
+export const userModel =  model("userCollection", userSchema);

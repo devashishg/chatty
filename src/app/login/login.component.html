@@ -1,4 +1,3 @@
-
 <div class="container">
   <div class="row my-5 align-items-center border">
     <div class="col-md-6 border-right">
@@ -6,28 +5,38 @@
         <div class="mb-4">
           <h3>Register to <strong>Chatty</strong></h3>
         </div>
-        <form action="#" method="post">
+        <div [formGroup]="signupForm">
           <div class="form-group first">
             <label for="username">Full name</label>
-            <input type="text" class="form-control" id="username">
+            <input type="text" class="form-control" #name formControlName="name">
+            <span class="text-danger" *ngIf="!name.value && signupForm.controls.email.touched">Invalid name</span>
           </div>
           <div class="form-group first">
             <label for="username">Email</label>
-            <input type="text" class="form-control" id="username">
+            <input type="text" class="form-control" #email formControlName="email">
+            <span class="text-danger"
+              *ngIf="!signupForm.controls.email.valid && signupForm.controls.email.touched">Invalid email address</span>
           </div>
           <div class="form-group last mb-4">
             <label for="password">Password</label>
-            <input type="password" class="form-control" id="password">
+            <input type="password" class="form-control" #p1 formControlName="key">
           </div>
           <div class="form-group last mb-4">
             <label for="password">Confirm Password</label>
-            <input type="password" class="form-control" id="password">
+            <input type="password" class="form-control" #p2 formControlName="cnfpwd">
+            <span class="text-danger"
+              *ngIf="p1.value !== p2.value && (p1.value || p2.value) && (signupForm.controls.key.touched || signupForm.controls.cnfpwd.touched)">
+              Both password doesn't match</span>
+            <span class="text-danger"
+              *ngIf="!p1.value && !p2.value && (signupForm.controls.cnfpwd.touched || signupForm.controls.key.touched)">
+              No password</span>
           </div>
 
-          <input type="submit" value="Register" class="btn btn-pill text-white btn-block btn-primary">
+          <input type="submit" value="Register" (click)="submitRegister()"
+            class="btn btn-pill text-white btn-block btn-primary">
 
 
-        </form>
+        </div>
       </div>
     </div>
     <div class="col-md-6">
@@ -35,20 +44,20 @@
         <div class="mb-4">
           <h3>Sign In to <strong>Chatty</strong></h3>
         </div>
-        <form action="#" method="post">
+        <div [formGroup]="loginform">
           <div class="form-group first">
             <label for="username">Email</label>
-            <input type="text" class="form-control" id="username">
+            <input type="text" class="form-control" id="username" formControlName="email">
+            <span class="text-danger"
+              *ngIf="!loginform.controls.email.valid && loginform.controls.email.touched">Invalid email address</span>
           </div>
           <div class="form-group last mb-4">
             <label for="password">Password</label>
-            <input type="password" class="form-control" id="password">
+            <input type="password" class="form-control" #passw id="password" #pwrd formControlName="key">
+            <span class="text-danger" *ngIf="!pwrd.value && loginform.controls.key.touched"> Invalid password </span>
           </div>
-
-          <input type="submit" value="Log In" class="btn btn-pill text-white btn-block btn-primary">
-
-
-        </form>
+          <input type="submit" value="Log In" (click)="login()" class="btn btn-pill text-white btn-block btn-primary">
+        </div>
       </div>
     </div>
   </div>
