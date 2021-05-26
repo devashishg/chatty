@@ -91,11 +91,18 @@ export const resolvers = {
       return user.token;
     },
 
-    Message: (parent, {message}, {pubsub}) =>{
-      pubsub.publish(message_alert, {
-        newMessage: message
-      });
-      return true;
+    Message: (parent, {message}, context) =>{
+      const token = context.req.headers.authorization;
+      const user = TokenService.AuthorizeToken(token);
+      if(user) {
+        context.pubsub.publish(message_alert, {
+          newMessage: message
+        });
+        return true;
+      } else {
+        return false;
+      }
+
     }
   },
 

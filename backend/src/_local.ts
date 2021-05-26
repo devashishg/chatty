@@ -40,8 +40,7 @@ const apolloServer = new ApolloServer({
       if(test) {
         console.log('Client connected');
       } else {
-        console.log('Client connection closing!');
-        webSocket.close(401,'Invalid user');
+        console.log('Unknown user');
       }
     },
     onDisconnect: (webSocket, context) => {
