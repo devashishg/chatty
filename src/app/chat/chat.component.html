@@ -1,5 +1,5 @@
 <div class="container border border-dark p-3 my-2">
-  <div class="custom-container overflow-auto chat-layout">
+  <div class="custom-container overflow-auto chat-layout" #container>
     <ng-container *ngFor="let chat of myChats">
       <div *ngIf="chat.user !== user;else other">
          <div class="float-left my-1 chat p-2">

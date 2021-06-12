@@ -1,7 +1,0 @@
-mutation signin($id: ID!) {
-    likeTweet(id: $id) {
-        id
-        text
-        likes
-    }
-}

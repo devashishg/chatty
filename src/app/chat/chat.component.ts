@@ -1,4 +1,4 @@
-import { Component, OnDestroy, OnInit } from '@angular/core';
+import { Component, ElementRef, OnDestroy, OnInit, ViewChild } from '@angular/core';
 import { FormControl } from '@angular/forms';
 import { ActivatedRoute } from '@angular/router';
 import { GQLService } from '../services/gql.service';
@@ -15,11 +15,12 @@ interface Chat {
   styleUrls: ['./chat.component.css']
 })
 export class ChatComponent implements OnInit, OnDestroy {
+  @ViewChild('container') container!:ElementRef;
   chat:FormControl;
   myChats:Array<Chat> = [];
   groupId = "";
   user = "";
-  subscriptionA:any;
+  subscriptionA!:ZenObservable.Subscription;
   subscriptionB:any;
 
   constructor(private gql: GQLService,private router: ActivatedRoute) {
@@ -33,12 +34,20 @@ export class ChatComponent implements OnInit, OnDestroy {
       this.user = payload.user;
     }
     this.router.params.subscribe((data)=>{
-      this.groupId = data.groupId;
+      if(this.groupId !== data.groupId) {
+        this.groupId = data.groupId;
+        this.subscriptionA?.unsubscribe();
+        this.myChats = [];
+      }
       this.subscriptionA = this.gql.messageSubscription(this.groupId).subscribe(({data,error}:any)=>{
         if(error) {
           return;
         }
-        this.myChats = [data.newMessage,...this.myChats];
+        this.myChats = [...this.myChats,data.newMessage];
+        const elem = this.container.nativeElement;
+        setTimeout(()=>{
+          elem.scrollTop = elem.scrollHeight;
+        },0);
       })
     })
   }

@@ -15,7 +15,7 @@ export class HomeComponent implements OnInit {
   constructor(private authservice: GQLService, private router:Router) { }
 
   ngOnInit(): void {
-    this.authservice.queryGroups({offset: this.offset,size:4}).subscribe(({data}:any)=>{
+    this.authservice.queryGroups({offset: this.offset,size:5}).subscribe(({data}:any)=>{
       const response = data.groups;
       this.GroupList = response.groups;
       this.offset = response.offset;
@@ -33,8 +33,8 @@ export class HomeComponent implements OnInit {
   }
 
   prev() {
-    if(this.offset > 4) {
-      this.authservice.queryGroups({offset: this.offset-8,size:4}).subscribe(({data}:any)=>{
+    if(this.offset > 5) {
+      this.authservice.queryGroups({offset: this.offset-8,size:5}).subscribe(({data}:any)=>{
         const response = data.groups;
         this.GroupList = response.groups;
         this.offset = response.offset;
@@ -44,7 +44,7 @@ export class HomeComponent implements OnInit {
 
   next() {
     if(this.offset < this.total) {
-      this.authservice.queryGroups({offset: (this.offset),size:4}).subscribe(({data}:any)=>{
+      this.authservice.queryGroups({offset: (this.offset),size:5}).subscribe(({data}:any)=>{
         const response = data.groups;
         this.GroupList = response.groups;
         this.offset = response.offset;

@@ -6,3 +6,7 @@
 .space-around {
   justify-content: space-around;
 }
+
+.w-120p {
+  width: 120px;
+}

@@ -105,6 +105,6 @@ export class GQLService {
   }
 
   messageSubscription(groupId: String) {
-    return this.apollo.subscribe({query:messageSubscription(groupId)});
+    return this.apollo.client.subscribe({query:messageSubscription(groupId)});
   }
 }

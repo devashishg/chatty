@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "concurrently \"ng serve\" \"npm run server\"",
+    "start": "concurrently \"ng serve\" \"yarn server\"",
     "server": "node ./backend/dist/_local.js",
     "build": "ng build",
     "test": "ng test",
